@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a13b634d-db44-4703-b6e8-d48dab5cb2a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='logo-express-checkout-2']/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#logo-express-checkout-2 > div > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#logo-express-checkout-2 >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f359b1a6-1442-48ee-b384-cac3eee854f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_ui/responsive/theme-officedepot/images/express-checkout/logo-OD.png</value>
+      <webElementGuid>9768a258-6b5c-4d42-9647-e01458da5947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logo-express-checkout-2&quot;)/div[1]/a[1]/img[1]</value>
+      <webElementGuid>30882d8e-69ee-45f7-a9c0-b95226d38aaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='logo-express-checkout-2']/div/a/img</value>
+      <webElementGuid>7aa8feb7-7aa6-4151-964d-def3eff4f54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/a/img</value>
+      <webElementGuid>270aa9c0-b77b-4a05-8448-f7d724d4d390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_ui/responsive/theme-officedepot/images/express-checkout/logo-OD.png']</value>
+      <webElementGuid>3873d1ce-2e04-44a1-a076-48592f33962b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Laptop Gamer Asus TUF F16 NVIDIA GeForce _d8ccf8</name>
+   <tag></tag>
+   <elementGuidId>2f7826cd-f138-4208-bfef-f3f4fce89d6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-item-wishList']/div/div[2]/div[3]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.itemName.col-md-10 > a.wishlistItemDatalayer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9fdaf47-b21a-43e8-92e8-5df9d3331877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/officedepot/en/Categor%C3%ADa/Todas/computo/laptops-y-macbook/laptops-gamer/Laptop-Gamer-Asus-TUF-F16-NVIDIA-GeForce-RTX-5050-Intel-Core-i5-16GB-RAM-1TB-SSD-16-pulgadas/p/100284910</value>
+      <webElementGuid>5086b865-4367-4d9b-8bc6-d232b16b92ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishlistItemDatalayer</value>
+      <webElementGuid>ab032035-7676-49a1-abfa-ee16105cf110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-code</name>
+      <type>Main</type>
+      <value>100284910</value>
+      <webElementGuid>0a631d0c-9677-4c27-a997-46f9e3ce3e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas</value>
+      <webElementGuid>325ba4bd-9458-49eb-9e94-091afd9046be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-item-wishList&quot;)/div[@class=&quot;product-cnt clearfix&quot;]/div[@class=&quot;row row-tablet&quot;]/div[@class=&quot;details-heigh-grid col-md-8 col-sm-8 col-xs-4&quot;]/div[@class=&quot;itemName col-md-10&quot;]/a[@class=&quot;wishlistItemDatalayer&quot;]</value>
+      <webElementGuid>82203758-98f2-419f-87c3-d33e65b45cfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-item-wishList']/div/div[2]/div[3]/div[2]/a</value>
+      <webElementGuid>e800819d-e89a-4ef2-a863-9a9342ea5e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas')]</value>
+      <webElementGuid>55c42e27-505a-4cd2-b1ea-274f273dad12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIAL'])[1]/following::a[1]</value>
+      <webElementGuid>adcc8eae-34a7-468b-acc4-d25bd6e6f071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRECIO'])[1]/following::a[1]</value>
+      <webElementGuid>009c5d29-12b5-4216-9f6c-2c2f0f4f09be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad'])[1]/preceding::a[1]</value>
+      <webElementGuid>1c338b61-e1e6-4b1a-877e-06de34770f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas']/parent::*</value>
+      <webElementGuid>d84966e3-d5af-4f71-aa04-b0d05b351527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/officedepot/en/Categor%C3%ADa/Todas/computo/laptops-y-macbook/laptops-gamer/Laptop-Gamer-Asus-TUF-F16-NVIDIA-GeForce-RTX-5050-Intel-Core-i5-16GB-RAM-1TB-SSD-16-pulgadas/p/100284910')])[2]</value>
+      <webElementGuid>252e51f1-05f7-4aa8-bdc9-1d21e2338650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>9e88e523-d69d-46f6-b888-eba51a1c9164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/officedepot/en/Categor%C3%ADa/Todas/computo/laptops-y-macbook/laptops-gamer/Laptop-Gamer-Asus-TUF-F16-NVIDIA-GeForce-RTX-5050-Intel-Core-i5-16GB-RAM-1TB-SSD-16-pulgadas/p/100284910' and (text() = 'Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas' or . = 'Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas')]</value>
+      <webElementGuid>fc210073-6ffc-4359-8352-832b90431dab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

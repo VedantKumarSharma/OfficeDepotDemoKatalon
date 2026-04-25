@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1697493606</name>
+   <tag></tag>
+   <elementGuidId>54542fe8-fb83-47b5-b353-ee6f444ca93b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de orden:'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.inf-content-txt.od-number-order</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group >> internal:text=&quot;1697493606&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e802024-421c-4204-898e-8a3dfbdf99f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 inf-content-txt od-number-order</value>
+      <webElementGuid>dc3e2e81-a6f2-44bf-80dd-d6fe80862736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1697493606</value>
+      <webElementGuid>036e6d89-6d82-4d06-aeb8-08300b6a0531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-orderConfirmationPage pageType-ContentPage template-pages-OrderConfirmationPageTemplate pageLabel-orderConfirmation smartedit-page-uid-orderConfirmationPage smartedit-page-uuid-eyJpdGVtSWQiOiJvcmRlckNvbmZpcm1hdGlvblBhZ2UiLCJjYXRhbG9nSWQiOiJvZmZpY2VkZXBvdENvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ== smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container-main-exp justify-content-flex order-confirmation&quot;]/div[@class=&quot;containers body-express-checkout&quot;]/div[@class=&quot;col-xs-12 col-md-6 col-lg-8 col-exp order-information-flex&quot;]/div[@class=&quot;containers&quot;]/fieldset[@class=&quot;col-xs-12 col-exp container-border-body-exp cnt-fieldset&quot;]/div[@class=&quot;fieldset-body col-xs-12 sin-padding&quot;]/div[@class=&quot;col-xs-12 col-lg-6 exp-order-inf&quot;]/div[@class=&quot;col-xs-12 sin-padding&quot;]/div[@class=&quot;col-xs-12 info-content-exp orderNumber&quot;]/div[@class=&quot;col-xs-12 inf-content-txt od-number-order&quot;]</value>
+      <webElementGuid>d260ed21-c18e-44be-bf3a-bcd77f5848eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de orden:'])[1]/following::div[1]</value>
+      <webElementGuid>d37dd70a-1955-4bc0-ac63-e32645e633ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abril'])[1]/following::div[4]</value>
+      <webElementGuid>739be6cf-e13f-4712-86f0-b3cb13442958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon123@gmail.com'])[2]/preceding::div[4]</value>
+      <webElementGuid>f037ad98-d01f-4deb-bffa-ab240bd19e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1697493606']/parent::*</value>
+      <webElementGuid>db410fd2-cb89-40e4-baf2-ccdc3618f291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[4]/div</value>
+      <webElementGuid>30632eda-4d97-43a6-bd35-ff286bfabfff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1697493606' or . = '1697493606')]</value>
+      <webElementGuid>04c78e5c-b182-4b6e-986f-2e4c59bcf019</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

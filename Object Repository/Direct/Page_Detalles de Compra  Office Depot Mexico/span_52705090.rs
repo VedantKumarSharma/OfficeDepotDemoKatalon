@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_52705090</name>
+   <tag></tag>
+   <elementGuidId>713a38fc-eade-427f-bbdb-38436020fed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de pedido'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.right.font-bold.right1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;52705090&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f21d6da-aed8-4701-945b-68c61b5cf9c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right font-bold right1</value>
+      <webElementGuid>8312773b-9b7c-4580-9ade-fa5e79e5f006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>52705090</value>
+      <webElementGuid>74a59da5-8958-40d9-81a0-09b04296323b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-order pageType-ContentPage template-pages-account-accountLayoutPage pageLabel-order smartedit-page-uid-order smartedit-page-uuid-eyJpdGVtSWQiOiJvcmRlciIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;account-section&quot;]/div[@class=&quot;yCmsContentSlot account-section-content&quot;]/div[@class=&quot;content-myAcout accountOrderHistoryPage&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 section-panelMyAccount&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 content-section-myacout&quot;]/div[@class=&quot;row account-orderhistory&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-4&quot;]/div[@class=&quot;col-xs-12 accountOrderInfo&quot;]/div[@class=&quot;row orderhistory-detailsList-table responsive-table&quot;]/fieldset[@class=&quot;col-xs-12 accountContentPane fieldset-orderHistory fieldsetCard split-fieldset&quot;]/div[@class=&quot;col-xs-12 container-orderInfo&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 space-box-5 td-order-my ordenId-div&quot;]/span[@class=&quot;right font-bold right1&quot;]</value>
+      <webElementGuid>6f65cc99-cd56-4438-b53b-d822972f2f5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de pedido'])[1]/following::span[1]</value>
+      <webElementGuid>1c9dcead-dbf1-487e-ba04-f02cdcfb9537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DETALLE DEL PEDIDO'])[1]/following::span[2]</value>
+      <webElementGuid>e7865894-1934-41b7-85ee-9dcd72656a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referencia'])[1]/preceding::span[1]</value>
+      <webElementGuid>672a4eb9-14f7-49a6-8c7c-111f13dbfcd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1697493606'])[1]/preceding::span[2]</value>
+      <webElementGuid>e94ca460-99f7-4868-99a8-822d0760b3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='52705090']/parent::*</value>
+      <webElementGuid>48ce693a-a07b-4790-a072-f2c9ff6a63e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div/span[2]</value>
+      <webElementGuid>1251a39b-ea14-4e1b-9dca-fbcef87fbdf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '52705090' or . = '52705090')]</value>
+      <webElementGuid>f5331a91-9e71-4a68-ab14-59073ba563c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fecha de nacimiento (ddmmaaaa)</name>
+   <tag></tag>
+   <elementGuidId>fcf2082c-80c3-48f7-9a77-72f9a7053fa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='popup_date_gs']/div[2]/div/div/span[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cboxLoadedContent > #popup_date_gs > div.birthday-popup-content > div.birthday-input-container > div.birthday-input-field > span.birthday-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#cboxLoadedContent >> internal:text=&quot;Fecha de nacimiento (dd/mm/aaaa)&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b6149de7-8db4-40a4-a7fc-9479136bd642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>birthday-placeholder</value>
+      <webElementGuid>6d3852a1-d371-4a54-a162-9f7893bdf567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fecha de nacimiento (dd/mm/aaaa)</value>
+      <webElementGuid>434fc415-a788-446a-93f5-29e25929d9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboxLoadedContent&quot;)/div[@id=&quot;popup_date_gs&quot;]/div[@class=&quot;birthday-popup-content&quot;]/div[@class=&quot;birthday-input-container&quot;]/div[@class=&quot;birthday-input-field&quot;]/span[@class=&quot;birthday-placeholder&quot;]</value>
+      <webElementGuid>9b74e52a-bb24-45f6-b496-9fdcc77cc4f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='popup_date_gs']/div[2]/div/div/span[2])[2]</value>
+      <webElementGuid>ec09b31f-5242-470b-a556-23cd4d80e906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Fecha de nacimiento (dd/mm/aaaa)'])[2]/following::span[1]</value>
+      <webElementGuid>fbf96137-13dc-4172-a2eb-a426e695f817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::span[2]</value>
+      <webElementGuid>14847ef9-d25d-43b2-a7f7-b1ed51dba01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::span[2]</value>
+      <webElementGuid>fe303829-f3d3-4d03-a1ca-f476468ad7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div/div/span[2]</value>
+      <webElementGuid>763a5496-c888-4a82-9636-f814b7a14516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fecha de nacimiento (dd/mm/aaaa)' or . = 'Fecha de nacimiento (dd/mm/aaaa)')]</value>
+      <webElementGuid>51775f61-33a5-47a7-8ef3-c8daeff09fec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

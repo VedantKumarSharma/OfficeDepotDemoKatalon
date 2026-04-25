@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SKU_select-heart-od</name>
+   <tag></tag>
+   <elementGuidId>dc0e34e7-1552-4a08-a56c-289bab664c94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick=&quot;if (!window.__cfRLUnblockHandlers) return false; onClickAddWishListDataLayer('100284910','Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas','laptops gamer','ASUS',
+                                                                            '27999.00');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-heart-od</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#heart-100284910 div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bdbfbbf-10ba-4837-99e9-6ee694cb64f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>if (!window.__cfRLUnblockHandlers) return false; onClickAddWishListDataLayer('100284910','Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas','laptops gamer','ASUS',
+                                                                            '27999.00');</value>
+      <webElementGuid>0ee743a5-fd4f-4771-b8a9-5f095d13253c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-heart-od</value>
+      <webElementGuid>1e92f15b-d71b-42b0-9af1-c2d4250dae51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heart-100284910&quot;)/div[@class=&quot;select-heart-od&quot;]</value>
+      <webElementGuid>8ec4c927-cdda-43c7-97cf-a809270fe24d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick=&quot;if (!window.__cfRLUnblockHandlers) return false; onClickAddWishListDataLayer('100284910','Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas','laptops gamer','ASUS',
+                                                                            '27999.00');&quot;]</value>
+      <webElementGuid>e1b665dc-142d-4ed6-8532-ee0ad6f3ce8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='heart-100284910']/div</value>
+      <webElementGuid>658c4d98-a5a6-427d-bae1-833e5f33bbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>e3ebb106-9fe1-4027-ba28-77d2f8af4d35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

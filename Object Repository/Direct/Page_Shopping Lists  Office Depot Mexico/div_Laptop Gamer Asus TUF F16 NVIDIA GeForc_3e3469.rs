@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Laptop Gamer Asus TUF F16 NVIDIA GeForc_3e3469</name>
+   <tag></tag>
+   <elementGuidId>250969ea-d356-494f-8eab-7c908afe8209</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ui-id-2']/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas $29,999.00 $27,999.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b109a2e6-727b-4783-ba41-b25bba4ed428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>63efd982-952f-4267-8c4e-c82c86c044cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas</value>
+      <webElementGuid>96f04ffc-b531-4f8e-880d-fe511ba41e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-2&quot;)/a[1]/div[@class=&quot;name&quot;]</value>
+      <webElementGuid>bc3065d7-3930-475f-a243-9ae745494b3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ui-id-2']/a/div[2]</value>
+      <webElementGuid>48d842ef-7c75-4c26-b3ca-643a3888a7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCTOS'])[1]/following::div[2]</value>
+      <webElementGuid>daf43be0-faed-4742-aeb9-d69cb1b57620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código postal'])[1]/following::div[6]</value>
+      <webElementGuid>19291988-12fd-4a86-acbd-83b0b579ba89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29,999.00'])[1]/preceding::div[1]</value>
+      <webElementGuid>9d9e9174-2bd5-4865-ace3-bb9d5fd3ace1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$27,999.00'])[1]/preceding::div[2]</value>
+      <webElementGuid>8578d051-6f50-4ea8-a90a-f69a3bafc62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas']/parent::*</value>
+      <webElementGuid>9fa8cf99-b5f5-451f-ab20-a51892eb85dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>9d1959b9-1f07-4050-8de1-d793d0e53fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas' or . = 'Laptop Gamer Asus TUF F16 NVIDIA GeForce RTX 5050 Intel Core i5 16GB RAM 1TB SSD 16 pulgadas')]</value>
+      <webElementGuid>97002d2d-8a70-4f1f-922e-38a2f448eda5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CONTINUAR</name>
+   <tag></tag>
+   <elementGuidId>8d078a6e-7300-4632-87fa-aac98084911a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@onclick='if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.sendDateWarranty_gs();'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cboxLoadedContent > #popup_date_gs > div.birthday-popup-content > button.birthday-continue-btn.btn-put-color-gs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;CONTINUAR&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71df1862-dbbb-41a8-9a87-3544077e64c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>birthday-continue-btn btn-put-color-gs</value>
+      <webElementGuid>730259d8-4dd6-40e8-8457-295c8b531bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.sendDateWarranty_gs();</value>
+      <webElementGuid>495778b2-d537-42ac-87ce-e89d7723a204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUAR</value>
+      <webElementGuid>5bb91412-263e-4303-943b-52f8d1dfa784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboxLoadedContent&quot;)/div[@id=&quot;popup_date_gs&quot;]/div[@class=&quot;birthday-popup-content&quot;]/button[@class=&quot;birthday-continue-btn btn-put-color-gs&quot;]</value>
+      <webElementGuid>66b3cb0e-9f88-48d2-90b3-f66836f0ebf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@onclick='if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.sendDateWarranty_gs();'])[2]</value>
+      <webElementGuid>50d4f57c-4eeb-4298-b0f6-9c2a757af0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='popup_date_gs']/div[2]/button)[2]</value>
+      <webElementGuid>5851b0fb-c2a9-4c08-ae46-5e38ac6c9425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha de nacimiento (dd/mm/aaaa)'])[2]/following::button[1]</value>
+      <webElementGuid>c8db8393-4fc3-487f-84d5-3d501c200c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Fecha de nacimiento (dd/mm/aaaa)'])[2]/following::button[1]</value>
+      <webElementGuid>19274fec-a01c-4ac5-9e1c-86dc953d2482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>42613f30-c48f-4cda-bc68-6a0fb975b6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
+      <webElementGuid>8f708427-446e-4469-a754-790056172a4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

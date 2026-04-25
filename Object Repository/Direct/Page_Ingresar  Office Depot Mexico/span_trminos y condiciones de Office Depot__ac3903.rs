@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_trminos y condiciones de Office Depot__ac3903</name>
+   <tag></tag>
+   <elementGuidId>6ad5dd4e-a26a-4451-9207-4eb0fca2a1ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='extendedRegisterForm']/div[7]/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkmark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;*Entiendo y acepto el Aviso de privacidad así como los términos y condiciones de&quot;i >> span >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3acae5f-8d27-4cda-8865-6aeef3704a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>6afe2282-3938-4ec8-9575-4461875e4d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extendedRegisterForm&quot;)/div[@class=&quot;input-material-checkbox-wrapper d-block register-form&quot;]/label[@class=&quot;input-material-label-checkbox&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>d50dbced-5aa6-468a-8123-6650d91e5189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='extendedRegisterForm']/div[7]/label/span[2]</value>
+      <webElementGuid>88e66095-6867-4465-a2d2-91120b9cc709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>a98a3e71-5613-4ac9-8089-587d6086778a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

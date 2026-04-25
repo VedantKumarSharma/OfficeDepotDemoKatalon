@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continuar con el pago</name>
+   <tag></tag>
+   <elementGuidId>273cd15a-21cd-4e64-99e0-c1893605e02f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;selectDeliveryAddressStepMobile&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selectDeliveryAddressStepMobile</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continuar con el pago&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c60e8c50-e2bf-462d-94b8-3d8e7d3d01fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selectDeliveryAddressStepMobile</value>
+      <webElementGuid>7c3f3c39-65c6-44ca-9dea-7e9c4b9e7dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>44d78789-8871-4bf0-9a64-be76776ab27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectDeliveryAddressStep btn btn-primary btn-block</value>
+      <webElementGuid>d0f1d6ce-9c0e-47cd-a2ba-63e78aa5611c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Continuar con el pago</value>
+      <webElementGuid>57437d4a-1516-4d3a-89c7-cd298a685c72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectDeliveryAddressStepMobile&quot;)</value>
+      <webElementGuid>e87549e9-de86-45e7-80c6-aa621a43eb51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='selectDeliveryAddressStepMobile']</value>
+      <webElementGuid>9025f201-06dd-49e1-9cb1-67b4701ca463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='datosEntrega']/div/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>cbd3806f-d813-4950-b560-5680b42c7acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar con el pago'])[1]/following::button[1]</value>
+      <webElementGuid>1f5c7db2-0873-4efe-ae6b-201df0e83558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='no deben incluir Régimen de Capital ni acentos'])[1]/following::button[2]</value>
+      <webElementGuid>4894b3a8-823e-4b4a-a8d5-16c4d2839c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Depot'])[1]/preceding::button[1]</value>
+      <webElementGuid>39e8f5eb-81cc-49be-a11e-62ba543ddde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>3df9602a-3e62-4ac0-86ee-a2c90ad62873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'selectDeliveryAddressStepMobile' and (text() = '
+            Continuar con el pago' or . = '
+            Continuar con el pago')]</value>
+      <webElementGuid>16c85ed5-17cd-45a9-b058-37947996689a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

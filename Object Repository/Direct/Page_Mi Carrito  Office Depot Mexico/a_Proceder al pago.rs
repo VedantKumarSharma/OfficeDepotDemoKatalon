@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Proceder al pago</name>
+   <tag></tag>
+   <elementGuidId>6bf6b0e2-c53f-4826-8ffe-2154ca2c0ae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='visiblePickupMethods']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#visiblePickupMethods</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Proceder al pago&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>351d7ba9-66f2-41b3-b17b-598b32ce59f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>visiblePickupMethods</value>
+      <webElementGuid>9c1d8a04-1782-4ea4-9c83-28f56c84e2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>onBegin_checkoutDataLayer();
+                        
+                            href=</value>
+      <webElementGuid>ef396926-3413-4de4-b8c3-b6d1ec8bc331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/officedepot/en/checkout</value>
+      <webElementGuid>48f6a90a-5730-4474-b829-362dc73988ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit d-block w-100 btn btn-primary-theme font-bold</value>
+      <webElementGuid>46be31be-b563-4b3c-b330-1298ab702c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Proceder al pago</value>
+      <webElementGuid>17c280da-c371-40b7-9b9c-d4a85b3f20ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-summary&quot;)/a[@id=&quot;visiblePickupMethods&quot;]</value>
+      <webElementGuid>ac67e620-7470-4ddc-ac48-dd44be160b96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='visiblePickupMethods']</value>
+      <webElementGuid>90b95bdb-8b21-470e-87b5-0b22ec89c9f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-summary']/a</value>
+      <webElementGuid>07387a95-2f48-47ec-97f9-ac9e8da4eafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Proceder al pago')]</value>
+      <webElementGuid>f399cc95-ba2d-43ac-8a92-a4693369abc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por superar los $10,999.00 te regalamos'])[1]/following::a[1]</value>
+      <webElementGuid>4d64ac65-6e1f-4e30-8636-4c8231383127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[2]/following::a[1]</value>
+      <webElementGuid>08e2a7b7-972e-4613-98fe-2f5b5ceb8298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completa tu compra'])[1]/preceding::a[2]</value>
+      <webElementGuid>809a7467-47f4-4bb4-97fa-287ca1131152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mouse Gamer Inalámbrico Logitech G G305 Azul'])[1]/preceding::a[3]</value>
+      <webElementGuid>7984ed04-4356-4546-a1cc-3b4677be5132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceder al pago']/parent::*</value>
+      <webElementGuid>151b934c-c0e4-43d8-8309-8590ca93efa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/officedepot/en/checkout')]</value>
+      <webElementGuid>ae113de9-ac5a-4035-b05b-60ff067b68ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/a</value>
+      <webElementGuid>b715b818-7648-4123-bc82-5f0fcc6ab504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'visiblePickupMethods' and @href = '/officedepot/en/checkout' and (text() = '
+                        Proceder al pago' or . = '
+                        Proceder al pago')]</value>
+      <webElementGuid>bca054b6-ffbe-4312-b9f9-663e355ff43c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
