@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>9ace8a98-12e4-4116-b0e1-d457fe47bd48</webElementGuid>
+      <webElementGuid>365efbdf-3583-4da6-a282-d38422f34129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_mc text_mc_bold</value>
-      <webElementGuid>34c253a3-aa70-4f10-8c66-3df81cf5abcb</webElementGuid>
+      <webElementGuid>fcf37b0a-8662-4c3c-b049-c43e93142a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>sesión</value>
-      <webElementGuid>8c56c063-2081-458e-be3f-45aa11f0b1b5</webElementGuid>
+      <webElementGuid>5be9dfa8-66f5-45d1-bcdc-d8299431fe66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-homepage pageType-ContentPage template-pages-layout-landingLayout2Page pageLabel-homepage smartedit-page-uid-homepage smartedit-page-uuid-eyJpdGVtSWQiOiJob21lcGFnZSIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/header[@class=&quot;js-mainHeader mainHeader-mx  site-officedepot&quot;]/div[@class=&quot;content-header&quot;]/nav[@class=&quot;navigation navigation--middle js-navigation--middle&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-header-mobile&quot;]/div[@class=&quot;mobile__nav__row mobile__nav__row--table&quot;]/div[@class=&quot;mobile__nav__row--table-group&quot;]/div[@class=&quot;mobile__nav__row--table-row&quot;]/div[@class=&quot;container-site-header&quot;]/div[@class=&quot;container-site-search margen-mobil&quot;]/div[@class=&quot;cont-profile-m&quot;]/div[@class=&quot;cnt-logo-user&quot;]/div[@class=&quot;d-miCuenta&quot;]/a[1]/div[@class=&quot;content_text_mc&quot;]/strong[@class=&quot;text_mc text_mc_bold&quot;]</value>
-      <webElementGuid>f1661131-38a2-4761-845c-8bf714912529</webElementGuid>
+      <webElementGuid>d282eb45-6bcb-4b17-aa8d-1f4af1e15331</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia'])[1]/following::strong[1]</value>
-      <webElementGuid>eb95616b-fbbf-4a02-8283-2eb3fa90ad11</webElementGuid>
+      <webElementGuid>541e9418-73b4-460d-b04b-55b9aaa7973f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Realiza pedidos y cotizaciones'])[1]/following::strong[1]</value>
-      <webElementGuid>fd7f0994-81e5-472f-a8af-1b279e4641fb</webElementGuid>
+      <webElementGuid>52b5bfe3-8fa5-4743-9fe5-feec1078c7ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categoría'])[1]/preceding::strong[1]</value>
-      <webElementGuid>67258109-2da8-4d48-9b74-05944dc514fb</webElementGuid>
+      <webElementGuid>dd968372-60d7-45a7-8411-7f6b601aee54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::strong[1]</value>
-      <webElementGuid>9d0efeda-15be-437c-8a03-ab84a77cf9d5</webElementGuid>
+      <webElementGuid>3d3f2963-4f0e-4203-bc61-09baeb9696e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='sesión']/parent::*</value>
-      <webElementGuid>2e02f368-d47e-4793-969b-7fbf0294bc00</webElementGuid>
+      <webElementGuid>bb41bb3d-8e80-4bb5-af75-11d290047fe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//strong</value>
-      <webElementGuid>eec5d435-2d97-4bd1-8d32-c8d9da2e9bdb</webElementGuid>
+      <webElementGuid>35918278-6c12-4474-979b-00f68a26c547</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = 'sesión' or . = 'sesión')]</value>
-      <webElementGuid>14ec0d99-f3ce-4708-b51e-b7fbd21d621f</webElementGuid>
+      <webElementGuid>7379ddc7-8110-4ed0-8aa5-1ddb50db6f04</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

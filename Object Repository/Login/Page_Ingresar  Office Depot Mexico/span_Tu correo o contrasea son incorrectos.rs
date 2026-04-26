@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Contrasea</name>
+   <name>span_Tu correo o contrasea son incorrectos</name>
    <tag></tag>
-   <elementGuidId>c2fa0063-297a-4f5c-88a6-28412d913a09</elementGuidId>
+   <elementGuidId>300a4070-3582-441f-be96-b1c31ea86e8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='loginForm']/div[2]/label</value>
+         <value>//span[@id='j_password.errors']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>582ad10a-abeb-4bd3-8ed9-6144e4d4a389</webElementGuid>
+      <value>span</value>
+      <webElementGuid>317bf9a2-5da4-4363-a504-5beb34f8cc18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>id</name>
       <type>Main</type>
-      <value>j_passwordexpress</value>
-      <webElementGuid>23deea5e-9bb0-464a-b681-41e1770c91cd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>input-material-label font-medium d-block w-100 </value>
-      <webElementGuid>cbadbac5-033c-4567-a435-d83b662385e1</webElementGuid>
+      <value>j_password.errors</value>
+      <webElementGuid>d722caed-7d17-4bf4-a2c4-59a1ba744066</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>*Contraseña</value>
-      <webElementGuid>146e8410-3336-4a75-94bb-dde47a4ddafe</webElementGuid>
+      <value>Tu correo o contraseña son incorrectos.</value>
+      <webElementGuid>efaf4b95-b02a-4df3-bb06-d43f67ee643a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm&quot;)/div[@class=&quot;input-group-material&quot;]/label[@class=&quot;input-material-label font-medium d-block w-100&quot;]</value>
-      <webElementGuid>ab22ecbe-7f21-41a5-a380-995238e9e7ee</webElementGuid>
+      <value>id(&quot;j_password.errors&quot;)</value>
+      <webElementGuid>40708156-6ed7-427b-8978-a02664548de7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='j_password.errors']</value>
+      <webElementGuid>3fbe740d-235d-4902-a710-1a32b6eab298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/div[2]/label</value>
-      <webElementGuid>cac17d4c-c2ef-4829-bfd1-b3e5b7d45e07</webElementGuid>
+      <value>//form[@id='loginForm']/div[2]/div/span</value>
+      <webElementGuid>6861f862-cb7e-41a5-92f3-fc27c228dded</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por favor ingresa un correo válido'])[1]/following::label[1]</value>
-      <webElementGuid>e3c18d67-039f-4bfa-8ff3-2f79308f5d82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[2]</value>
+      <webElementGuid>6a946564-f50b-48e6-a10d-9a5161e868e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio'])[1]/following::label[1]</value>
-      <webElementGuid>b6f521b4-fad0-4177-bc55-009601d05cb7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio'])[2]/preceding::span[1]</value>
+      <webElementGuid>0b75da59-0552-44df-b7d3-9befd6003af8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio'])[2]/preceding::label[1]</value>
-      <webElementGuid>ab7fc01c-8136-4f78-89fd-70f68a52fc76</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completa la cantidad mínima de caracteres.'])[1]/preceding::span[1]</value>
+      <webElementGuid>c3235367-ec3a-488f-bcc2-4de47e49f11e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Contraseña']/parent::*</value>
-      <webElementGuid>bfedbcce-9883-4840-8d19-cf09e863b303</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tu correo o contraseña son incorrectos.']/parent::*</value>
+      <webElementGuid>66e0d53d-24cd-47b2-ab1b-fa168131c7c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/label</value>
-      <webElementGuid>faf66e27-f516-4680-b0be-f9601d369396</webElementGuid>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>504f9d64-f582-4a8c-9974-32f8cefe8750</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = '*Contraseña' or . = '*Contraseña')]</value>
-      <webElementGuid>18d9c3dd-fca2-48c7-9b84-caf5768cea4e</webElementGuid>
+      <value>//span[@id = 'j_password.errors' and (text() = 'Tu correo o contraseña son incorrectos.' or . = 'Tu correo o contraseña son incorrectos.')]</value>
+      <webElementGuid>b5d79f85-a171-49bf-adc5-e46cc0511496</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

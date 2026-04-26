@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>00351f76-d65d-4265-b131-8d4f2c0d8167</webElementGuid>
+      <webElementGuid>b1af9aaf-e16e-461e-b457-71b154ceeb7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>view-password</value>
-      <webElementGuid>44a31152-a16b-4ea5-9f7a-644c2bd42d06</webElementGuid>
+      <webElementGuid>e8d0eac0-435d-4457-8a45-fdb97f53e858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm&quot;)/div[@class=&quot;input-group-material&quot;]/span[@class=&quot;view-password&quot;]</value>
-      <webElementGuid>973d37fc-6eb2-49a5-ab11-2521cb6c555e</webElementGuid>
+      <value>id(&quot;loginForm&quot;)/div[@class=&quot;input-group-material valid&quot;]/span[@class=&quot;view-password&quot;]</value>
+      <webElementGuid>cb88254f-4493-4132-817e-d33231da8aaf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/div[2]/span</value>
-      <webElementGuid>3bb71e4f-bf35-4dff-8c92-ccc76d732aa0</webElementGuid>
+      <webElementGuid>85054452-69da-4a3e-90b9-847b6126f6cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span</value>
-      <webElementGuid>a1738c8d-f2a4-41a0-bb82-3cbd99850505</webElementGuid>
+      <webElementGuid>4fe58e23-2261-4018-9e49-2dddef747021</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
