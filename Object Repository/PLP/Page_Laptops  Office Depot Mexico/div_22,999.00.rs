@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_22,999.00</name>
+   <tag></tag>
+   <elementGuidId>efe93203-f276-4f53-99fc-c0e5dde927fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prices-for100271140 > div.discountedPrice-grid.cont-price-grid.bp-original</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prices-for100271140']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92137502-72e5-4e4a-89b7-d2cc771818e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>discountedPrice-grid cont-price-grid bp-original</value>
+      <webElementGuid>2f2d5414-c94a-4639-b89e-1804de6cb325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                $22,999.00
+    </value>
+      <webElementGuid>1b05451a-2896-428f-8670-def164c6ae24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prices-for100271140&quot;)/div[@class=&quot;discountedPrice-grid cont-price-grid bp-original&quot;]</value>
+      <webElementGuid>dc9dcfaf-7e27-45f1-9679-da5ffce6205f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prices-for100271140']/div</value>
+      <webElementGuid>3a62779e-caa0-45f4-91a0-7e85fd912a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[2]/following::div[3]</value>
+      <webElementGuid>e0ed6983-9e83-41c6-b18f-83232c082a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop HP OmniBook X Snapdragon X Plus 16GB RAM 1TB SSD 14 pulgadas'])[1]/following::div[5]</value>
+      <webElementGuid>dddd7017-da22-453b-a2f7-d8c3b6f5f9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[3]/preceding::div[14]</value>
+      <webElementGuid>cbd45b93-bd16-47e4-95d5-3413f0299241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$22,999.']/parent::*</value>
+      <webElementGuid>b12470c1-41f3-434f-a9c1-721d71577e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a[3]/div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>7cfa8b09-3543-4117-a7b6-00a3956da95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                $22,999.00
+    ' or . = '
+                $22,999.00
+    ')]</value>
+      <webElementGuid>5c8350d1-a5ca-412d-ac3d-942d62c9389e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

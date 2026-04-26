@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SKU</name>
+   <tag></tag>
+   <elementGuidId>35ec2072-5b5b-4357-94f4-9ec03c983fdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.name-add.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd925894-bc4d-40ac-a38d-efc824a7adc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-add font-bold</value>
+      <webElementGuid>1b1859bd-d829-4846-a6a7-d9fc913420fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SKU: </value>
+      <webElementGuid>150ee7e2-2e84-40e8-b5a5-d7b7d5b18d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-productGrid pageType-CategoryPage template-pages-category-productGridPage  smartedit-page-uid-productGrid smartedit-page-uuid-eyJpdGVtSWQiOiJwcm9kdWN0R3JpZCIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container-grid2021 container-gridMX&quot;]/div[@class=&quot;container back-grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 content-grid-products&quot;]/div[@class=&quot;yCmsContentSlot product-grid-right-result-slot&quot;]/div[@class=&quot;yCmsComponent product__list--wrapper yComponentWrapper product-grid-right-result-component&quot;]/div[@class=&quot;product__switch_view product__listing product__grid&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-cnt clearfix&quot;]/a[@class=&quot;product-description heigh-grid&quot;]/div[@class=&quot;cnt-rating-sku&quot;]/div[@class=&quot;product-sku&quot;]/span[@class=&quot;name-add font-bold&quot;]</value>
+      <webElementGuid>10fa7b28-4348-4298-b7a1-3f8927d4293f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[1]/following::span[2]</value>
+      <webElementGuid>0360355d-a77e-417b-a4e6-846f331d6827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas'])[1]/preceding::span[2]</value>
+      <webElementGuid>13bb7b1f-4e31-44d1-b5c2-21c963b11ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[1]/preceding::span[2]</value>
+      <webElementGuid>4df8d34a-191c-46c2-b893-4f3d0e3c2c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SKU:']/parent::*</value>
+      <webElementGuid>c30bb213-9015-4091-bee8-5dcaccd745de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div[2]/div[2]/span</value>
+      <webElementGuid>9ba53878-f9e5-48b2-aa76-2169c97d2ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SKU: ' or . = 'SKU: ')]</value>
+      <webElementGuid>f21c580f-fc0c-4609-b04d-a64168f5c113</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

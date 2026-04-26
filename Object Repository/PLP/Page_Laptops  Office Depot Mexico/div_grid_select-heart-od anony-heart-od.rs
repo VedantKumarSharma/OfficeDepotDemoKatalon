@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_grid_select-heart-od anony-heart-od</name>
+   <tag></tag>
+   <elementGuidId>26fe5c79-69d9-4d05-a338-0106c2366998</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-heart-od.anony-heart-od</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28320af0-8c43-43cf-a1a6-a6747274b53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-heart-od anony-heart-od</value>
+      <webElementGuid>c48b870d-2c76-42d3-8621-45679c8f8e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-productGrid pageType-CategoryPage template-pages-category-productGridPage  smartedit-page-uid-productGrid smartedit-page-uuid-eyJpdGVtSWQiOiJwcm9kdWN0R3JpZCIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container-grid2021 container-gridMX&quot;]/div[@class=&quot;container back-grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 content-grid-products&quot;]/div[@class=&quot;yCmsContentSlot product-grid-right-result-slot&quot;]/div[@class=&quot;yCmsComponent product__list--wrapper yComponentWrapper product-grid-right-result-component&quot;]/div[@class=&quot;product__switch_view product__listing product__grid&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-cnt clearfix&quot;]/a[1]/div[@class=&quot;select-heart-od anony-heart-od&quot;]</value>
+      <webElementGuid>86cab43a-148e-4398-aded-452c1c7b09e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div</value>
+      <webElementGuid>ac9bb979-e3e1-4c25-86b3-7655b1aad98a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
