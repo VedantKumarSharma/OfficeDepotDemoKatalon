@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Laptops</name>
+   <tag></tag>
+   <elementGuidId>bfffff5b-a7ba-46d7-8512-c4e7a96a5dce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.swiper-slide-next > a > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='filaDeCategorias']/div/div/div/div[2]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7da10da4-9c40-4b19-996f-ac8a1d3f8ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laptops</value>
+      <webElementGuid>53811a68-2bcf-4129-a90d-089d164ebab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filaDeCategorias&quot;)/div[@class=&quot;contCategorias&quot;]/div[@class=&quot;swiper swiperCategorias swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-next&quot;]/a[1]/p[1]</value>
+      <webElementGuid>7fac9b9d-8dcf-4c4e-8f82-d8f70a3eaefd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filaDeCategorias']/div/div/div/div[2]/a/p</value>
+      <webElementGuid>bf2209a9-bf87-4ad5-8073-7af244762e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.officedepot.com.mx'])[2]/following::p[4]</value>
+      <webElementGuid>348281a4-ec1f-4263-bbe9-a8d3de896354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.officedepot.com.mx'])[1]/following::p[4]</value>
+      <webElementGuid>31e9802b-99b7-4bd3-bc6a-1d278a0b76d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Depot México: Papelería y electrónica al mejor precio'])[1]/preceding::p[7]</value>
+      <webElementGuid>45b17a8e-37be-4eaa-a75b-7be806f6b8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aquí'])[1]/preceding::p[7]</value>
+      <webElementGuid>5202269b-414c-497e-9775-01e2fada3b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/p</value>
+      <webElementGuid>788503a7-aad6-4998-9d77-418567a4ad02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Laptops' or . = 'Laptops')]</value>
+      <webElementGuid>272a01e1-aa0e-4c8e-bf52-0f00655c64e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
