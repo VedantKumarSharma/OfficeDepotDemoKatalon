@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Office Depot Mexico  Compra en lnea Ar_97767d/input_Agrega tu ubicacin para mejorar la ex_080146'))
@@ -71,4 +73,6 @@ WebUI.rightClick(findTestObject('Object Repository/Direct/Page_Apple iPhone 17 P
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Apple iPhone 17 Pro Max 256GB 12GB RAM_456143/ol_CategoraCategora,CategoraCategoraofficed_ef444a'), 
     0)
+
+WebUI.closeBrowser()
 

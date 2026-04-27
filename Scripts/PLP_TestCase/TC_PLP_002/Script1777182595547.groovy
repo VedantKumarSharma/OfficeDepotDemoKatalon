@@ -28,34 +28,34 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
-WebUI.click(findTestObject('Object Repository/PLP/Page_Office Depot Mexico  Compra en lnea Ar_97767d/p_Laptops'))
+WebUI.click(findTestObject('Object Repository/PLP/Page_Office Depot Mexico  Compra en lnea Ar_97767d/PLP_p_Laptops'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/select_Ms relevante                        _a681d4'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Sort_select_Ms relevante _a681d4'), 
     'topRated', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/select_Ms relevante                        _a681d4'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Sort_select_Ms relevante _a681d4'), 
     'name-asc', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/select_Ms relevante                        _a681d4'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Sort_select_Ms relevante _a681d4'), 
     'name-desc', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/select_Ms relevante                        _a681d4'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Sort_select_Ms relevante _a681d4'), 
     'price-asc', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/select_Ms relevante                        _a681d4'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Sort_select_Ms relevante _a681d4'), 
     'price-desc', true)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_32,999.00'), 0)
+WebUI.verifyElementPresent(findTestObject('PLP/Page_Laptops  Office Depot Mexico/PLP_Product_1_Descount_Price'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_22,999.00'), 0)
+WebUI.verifyElementPresent(findTestObject('PLP/Page_Laptops  Office Depot Mexico/PLP_Product_2_Descount_Price'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_27,999.00'), 0)
+WebUI.verifyElementPresent(findTestObject('PLP/Page_Laptops  Office Depot Mexico/PLP_Product_3_Descount_Price'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_19,339.00'), 0)
+WebUI.verifyElementPresent(findTestObject('PLP/Page_Laptops  Office Depot Mexico/PLP_Product_4_Descount_Price'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_19,999.00'), 0)
+WebUI.verifyElementPresent(findTestObject('PLP/Page_Laptops  Office Depot Mexico/PLP_Product_5_Descount_Price'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_20,299.00'), 0)
+WebUI.verifyElementPresent(findTestObject('PLP/Page_Laptops  Office Depot Mexico/PLP_Product_6_Descount_Price'), 0)
 
 WebUI.delay(3)
 

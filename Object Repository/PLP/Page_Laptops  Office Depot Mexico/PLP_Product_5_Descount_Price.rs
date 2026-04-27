@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_20,299.00</name>
+   <name>PLP_Product_5_Descount_Price</name>
    <tag></tag>
-   <elementGuidId>c82e00df-e99e-46da-872f-fd14dc113bca</elementGuidId>
+   <elementGuidId>72e4b9f9-9e55-4e32-aa3a-88c0efb82a60</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#prices-for100271203 > div.discountedPrice-grid.cont-price-grid.bp-original</value>
+         <key>XPATH</key>
+         <value>(//div[@class='discountedPrice-grid cont-price-grid bp-original'])[5]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='prices-for100271203']/div</value>
+         <key>CSS</key>
+         <value>div.discountedPrice-grid.cont-price-grid.bp-original</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9577b7a8-0951-43a9-acd9-48785ddc8afb</webElementGuid>
+      <webElementGuid>b8594080-9a85-42e9-8d7c-7db383ab97c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>discountedPrice-grid cont-price-grid bp-original</value>
-      <webElementGuid>b35ee1da-79d7-46d5-9e06-ac3512660020</webElementGuid>
+      <webElementGuid>697398c7-8306-4bb4-90a9-34f15b520fe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,65 +39,65 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                $20,299.00
+                $11,999.00
     </value>
-      <webElementGuid>c8771742-e3ba-4e62-8414-9cf81d2ec3cb</webElementGuid>
+      <webElementGuid>f6ab9367-92f4-4238-9b33-b31c81d782f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;prices-for100271203&quot;)/div[@class=&quot;discountedPrice-grid cont-price-grid bp-original&quot;]</value>
-      <webElementGuid>a57f6f4e-3ad4-4016-ac1d-107994953167</webElementGuid>
+      <value>id(&quot;prices-for100253460&quot;)/div[@class=&quot;discountedPrice-grid cont-price-grid bp-original&quot;]</value>
+      <webElementGuid>b3baec44-786a-45cd-abc6-458f713d783d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='prices-for100271203']/div</value>
-      <webElementGuid>f4e077fc-bc12-4030-abe5-375da5b04b03</webElementGuid>
+      <value>//div[@id='prices-for100253460']/div</value>
+      <webElementGuid>75920601-a82b-4835-a746-9e8d88c5d94b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[5]/following::div[3]</value>
-      <webElementGuid>8ffe1316-ceb0-4d07-8bcd-e3bcebac2930</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[1]/following::div[3]</value>
+      <webElementGuid>eb2cea02-bea5-4642-bcb2-e0cf5b63f204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop HP OmniBook 3 NGAI AMD Ryzen AI 5 16GB RAM 512GB SSD 15.6 pulgadas'])[1]/following::div[5]</value>
-      <webElementGuid>67ea04f4-503f-411b-9ba3-23751228cbbc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas'])[1]/following::div[5]</value>
+      <webElementGuid>ecd58853-5aaf-450f-a393-7e8734396810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[7]/preceding::div[14]</value>
-      <webElementGuid>30b9fcd1-9479-4c01-8dcb-3a09a84b6f67</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[2]/preceding::div[14]</value>
+      <webElementGuid>321e55a3-d724-4dd1-b1ae-bd185694372f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='$20,299.']/parent::*</value>
-      <webElementGuid>27b5be28-be8e-4710-ad5e-9e2baf7b1cd2</webElementGuid>
+      <value>//*/text()[normalize-space(.)='$11,999.']/parent::*</value>
+      <webElementGuid>2cfa6b37-af7d-41aa-bdf9-dadd953a2091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/a[3]/div[3]/div[2]/div[2]/div/div</value>
-      <webElementGuid>cdffd763-ef43-46f6-801a-117eefd2b40e</webElementGuid>
+      <value>//div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>9f5946c5-1605-44fa-9e06-d056d353515f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,10 +105,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '
-                $20,299.00
+                $11,999.00
     ' or . = '
-                $20,299.00
+                $11,999.00
     ')]</value>
-      <webElementGuid>1ad45170-7a90-46f6-a343-cc0595fcb439</webElementGuid>
+      <webElementGuid>51742ba6-2bf1-4340-97ee-30c0d111067b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_11,999.00</name>
+   <name>PLP_Product_2_Descount_Price</name>
    <tag></tag>
-   <elementGuidId>44923cd7-c427-4715-89cf-842d27d0c203</elementGuidId>
+   <elementGuidId>43a53747-5745-40e8-b660-310b5f9e00dd</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='discountedPrice-grid cont-price-grid bp-original'])[2]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.discountedPrice-grid.cont-price-grid.bp-original</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='prices-for100253460']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>148b2931-7f2a-4b10-b50a-34076ecb3dfb</webElementGuid>
+      <webElementGuid>14ec3732-378c-4b5b-a68e-c88e460bae7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>discountedPrice-grid cont-price-grid bp-original</value>
-      <webElementGuid>260c4311-6b04-4188-aa74-dbde8e0ae855</webElementGuid>
+      <webElementGuid>17300dd1-04b5-43ec-a5cc-c41b8dfde319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <value>
                 $11,999.00
     </value>
-      <webElementGuid>e8a01a2b-00c4-4767-83a4-07b82f1ab784</webElementGuid>
+      <webElementGuid>89ac1ab4-f7cd-487c-af7e-733d39072403</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;prices-for100253460&quot;)/div[@class=&quot;discountedPrice-grid cont-price-grid bp-original&quot;]</value>
-      <webElementGuid>7f8d67db-0867-4d7c-a325-e635af10825a</webElementGuid>
+      <webElementGuid>c2eeb800-2f9b-4825-8737-1bf2ed5c5ea4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='prices-for100253460']/div</value>
-      <webElementGuid>0ccc00d3-f203-42c8-98cc-06fc52f3dbb2</webElementGuid>
+      <webElementGuid>ce32f280-da27-4176-b881-81f4a3e87a85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[1]/following::div[3]</value>
-      <webElementGuid>31ca5e0d-8383-4bb5-8ec5-18368d6689a5</webElementGuid>
+      <webElementGuid>845e563b-5109-4e28-bbf1-c6c797041201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas'])[1]/following::div[5]</value>
-      <webElementGuid>07480732-1e2a-4770-a110-6f3dac7bfd03</webElementGuid>
+      <webElementGuid>1f2b7bc6-172f-43a5-8f0f-709c7cd56627</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[2]/preceding::div[14]</value>
-      <webElementGuid>cb9b6f1c-0656-4cb8-a298-6d5907a45bce</webElementGuid>
+      <webElementGuid>5bdc5616-7ac7-4683-a8bd-674fce602680</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='$11,999.']/parent::*</value>
-      <webElementGuid>68f4eb0f-20a1-4eb0-96b1-bdbd21a2abed</webElementGuid>
+      <webElementGuid>1837d862-f8ca-467f-9d7a-2e25c3b56200</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div[2]/div/div</value>
-      <webElementGuid>90985fb5-ebb8-43b6-b1ba-14428f3483bf</webElementGuid>
+      <webElementGuid>fe759b34-f2d6-449c-b813-d31a0aaa034f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
     ' or . = '
                 $11,999.00
     ')]</value>
-      <webElementGuid>47f8463c-8bbd-4b47-aa58-7e430a1d7ed2</webElementGuid>
+      <webElementGuid>f136fe10-9382-40c6-9ac8-976bafac2b47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

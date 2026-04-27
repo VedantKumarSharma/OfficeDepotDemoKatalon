@@ -6,12 +6,12 @@
    <elementGuidId>042d4ef1-babf-42f2-ae9d-7060c6721df9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>label.dropdown</value>
+         <key>XPATH</key>
+         <value>(//label[@class='dropdown'])[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='sortFormMob']/label</value>
+         <key>CSS</key>
+         <value>label.dropdown</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>e27f5050-5960-45d0-914a-746f79215943</webElementGuid>
+      <webElementGuid>8d7e6749-789f-464b-a368-ba74221d709f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>5f7a85fd-37da-4255-893d-972dc33f8f7f</webElementGuid>
+      <webElementGuid>04cd97a6-2fd2-4153-b9f9-4ceaacccffcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
                             
                             
                             </value>
-      <webElementGuid>0e9e7fe7-1002-47fc-8d97-c75b16746037</webElementGuid>
+      <webElementGuid>1a15f776-5ca5-4f31-8854-6dd3845e2fb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sortFormMob&quot;)/label[@class=&quot;dropdown&quot;]</value>
-      <webElementGuid>1a645f8c-25eb-49cd-80e9-552b811d8ebe</webElementGuid>
+      <webElementGuid>b7b630d5-7081-4cc4-83f4-a4909217ec0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='sortFormMob']/label</value>
-      <webElementGuid>e7777360-695a-4bb8-ba99-2aecbaf1ef42</webElementGuid>
+      <webElementGuid>d40bdd26-d518-47fa-baf9-00136330f055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordenar por'])[1]/following::label[1]</value>
-      <webElementGuid>a4c2cab7-9799-4b7e-abf5-2619454a1390</webElementGuid>
+      <webElementGuid>fe90d904-36d7-40c2-ac32-54e1e44fd54b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtros'])[2]/following::label[1]</value>
-      <webElementGuid>27fc0200-66c9-4ffa-9cb3-277e0862c615</webElementGuid>
+      <webElementGuid>66aa47ed-0556-43e4-a2b3-6b84b731a1e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Artículos por página'])[1]/preceding::label[1]</value>
-      <webElementGuid>2dd21905-cea0-4bd5-b617-d337f9e419f6</webElementGuid>
+      <webElementGuid>7d4dcdb4-f2d4-45e5-ac29-7166eb2eeee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/label</value>
-      <webElementGuid>3554ceb4-952d-4f1f-8b73-7e374e4e7731</webElementGuid>
+      <webElementGuid>f7bd3272-24b3-4160-8635-f2463daf0f4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
                             
                             
                             ')]</value>
-      <webElementGuid>ea7909c3-9b9a-403f-aee5-dbc2c37383bf</webElementGuid>
+      <webElementGuid>30dd292b-81b2-49ca-ad47-57ff7c5b3140</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

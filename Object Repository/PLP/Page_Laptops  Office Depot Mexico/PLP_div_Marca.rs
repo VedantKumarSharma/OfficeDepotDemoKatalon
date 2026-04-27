@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_19,339.00</name>
+   <name>PLP_div_Marca</name>
    <tag></tag>
-   <elementGuidId>1eddd311-5365-487d-b549-18c3144f47a6</elementGuidId>
+   <elementGuidId>9e94f278-f8ed-4795-a016-5afe7308fe8f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#prices-for100271182 > div.discountedPrice-grid.cont-price-grid.bp-original</value>
+         <key>XPATH</key>
+         <value>(//div[@class='facet__name-txt'][normalize-space()='Marca'])[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='prices-for100271182']/div</value>
+         <key>CSS</key>
+         <value>div.facet__name-txt</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>650fb227-dfae-4ef5-9889-a1119610edeb</webElementGuid>
+      <webElementGuid>b175fef5-34c6-464e-b917-fbf076261f7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>discountedPrice-grid cont-price-grid bp-original</value>
-      <webElementGuid>c7bcc2fd-b2b7-4e7d-904a-7276c6843caa</webElementGuid>
+      <value>facet__name-txt</value>
+      <webElementGuid>29b76866-4271-4155-a6aa-c5c2f70dacc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,65 +39,72 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                $19,339.00
-    </value>
-      <webElementGuid>0d2a1827-dbcf-46eb-b034-3b88a3a4910c</webElementGuid>
+				Marca</value>
+      <webElementGuid>609af81a-bea7-4e3b-a2c4-75305dc9fe5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;prices-for100271182&quot;)/div[@class=&quot;discountedPrice-grid cont-price-grid bp-original&quot;]</value>
-      <webElementGuid>b46b2b62-f56f-4742-b09f-3cd2ecfdda8b</webElementGuid>
+      <value>id(&quot;filtrar-menu_dsk&quot;)/div[@id=&quot;product__facet&quot;]/div[@class=&quot;facet js-facet facet-cnt-Marca&quot;]/div[@class=&quot;facet__name js-facet-name&quot;]/div[@class=&quot;facet__name-txt&quot;]</value>
+      <webElementGuid>1c7fcbf9-da60-49dc-b2d5-0f753851e67f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='prices-for100271182']/div</value>
-      <webElementGuid>434d8e20-30f3-4470-8ef1-38ec4d4903cb</webElementGuid>
+      <value>//div[@id='product__facet']/div/div/div</value>
+      <webElementGuid>5c736f7b-0605-4b0c-81ad-e9431808f918</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[3]/following::div[3]</value>
-      <webElementGuid>5dada4f7-577f-4389-805a-5739adaf51c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtros'])[1]/following::div[7]</value>
+      <webElementGuid>e46a9a71-3be0-4f85-ac42-8d45219b06cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop HP OmniBook 5 Snapdragon X 16GB RAM 512GB 14 pulgadas OLED'])[1]/following::div[5]</value>
-      <webElementGuid>8632b6e9-6286-4506-8836-00bc5874679c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.officedepot.com.mx'])[2]/following::div[65]</value>
+      <webElementGuid>22db6bba-2c4d-4101-ac6b-5d3a4054f542</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[5]/preceding::div[14]</value>
-      <webElementGuid>382b2f08-bd60-4f4d-b4d1-f66c3a807c52</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::div[1]</value>
+      <webElementGuid>c9528be9-8442-4df9-89d4-8d4f0ed4995c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='$19,339.']/parent::*</value>
-      <webElementGuid>79d749cf-3eee-40f8-a23c-3760e70a3933</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACER'])[1]/preceding::div[2]</value>
+      <webElementGuid>8b38eaf9-6f33-4383-8c5b-3e8f48f5ad66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marca']/parent::*</value>
+      <webElementGuid>56e40daa-0fba-4e2e-b27b-ad74ee28ee49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[8]/div/a[3]/div[3]/div[2]/div[2]/div/div</value>
-      <webElementGuid>d70b26aa-18bc-4ef1-a8cb-7554fa8a3d21</webElementGuid>
+      <value>//div[5]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>c7c45f92-daf9-49ef-8936-014a285d8392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,10 +112,8 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '
-                $19,339.00
-    ' or . = '
-                $19,339.00
-    ')]</value>
-      <webElementGuid>a18663a4-7c4a-456c-8487-f36280d19529</webElementGuid>
+				Marca' or . = '
+				Marca')]</value>
+      <webElementGuid>325bd953-d872-4441-9c8a-752763d748df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

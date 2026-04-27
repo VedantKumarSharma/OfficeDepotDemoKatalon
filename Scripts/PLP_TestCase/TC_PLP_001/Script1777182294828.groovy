@@ -23,11 +23,11 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
-WebUI.click(findTestObject('Object Repository/PLP/Page_Office Depot Mexico  Compra en lnea Ar_97767d/p_Laptops'))
+WebUI.click(findTestObject('Object Repository/PLP/Page_Office Depot Mexico  Compra en lnea Ar_97767d/PLP_p_Laptops'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_Marca'), 'Marca')
+WebUI.verifyElementText(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_div_Marca'), 'Marca')
 
-WebUI.verifyElementText(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_Procesador'), 'Procesador')
+WebUI.verifyElementText(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_div_Procesador'), 'Procesador')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/label_Ms relevante                         _d358f7'), 
     0)
@@ -37,12 +37,12 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  O
 WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_grid_select-heart-od anony-heart-od'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/span_SKU'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Product_1_span_SKU'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/h2_Laptop Asus Vivobook 15 Intel Core i5 8G_c3f615'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_11,999.00'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Product_1_Descount_Price'), 0)
 
 WebUI.closeBrowser()
 

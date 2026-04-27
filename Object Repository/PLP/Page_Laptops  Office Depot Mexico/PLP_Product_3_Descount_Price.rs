@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Procesador</name>
+   <name>PLP_Product_3_Descount_Price</name>
    <tag></tag>
-   <elementGuidId>0a7f1dca-54a7-4d39-9160-a2f26559bab0</elementGuidId>
+   <elementGuidId>c0643e91-0843-4e03-8089-2c7de1b9db40</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.facet.js-facet.facet-cnt-Procesador > div.facet__name.js-facet-name > div.facet__name-txt</value>
+         <key>XPATH</key>
+         <value>(//div[@class='discountedPrice-grid cont-price-grid bp-original'])[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='product__facet']/div[2]/div/div</value>
+         <key>CSS</key>
+         <value>div.discountedPrice-grid.cont-price-grid.bp-original</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2c6f4e48-0351-4191-9bc1-4d3589112ba3</webElementGuid>
+      <webElementGuid>f705da6a-111a-4b50-8fb8-b860969a86b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>facet__name-txt</value>
-      <webElementGuid>3229a10e-4f42-408c-bb03-d6bc38984825</webElementGuid>
+      <value>discountedPrice-grid cont-price-grid bp-original</value>
+      <webElementGuid>872be0a1-518a-4a23-b75a-a9edda95aaa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,72 +39,65 @@
       <name>text</name>
       <type>Main</type>
       <value>
-				Procesador</value>
-      <webElementGuid>0bd43a5c-f33c-40f0-b3c9-71d423a39d78</webElementGuid>
+                $11,999.00
+    </value>
+      <webElementGuid>63f0b424-8a07-4533-a58a-28d460d9ea71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;filtrar-menu_dsk&quot;)/div[@id=&quot;product__facet&quot;]/div[@class=&quot;facet js-facet facet-cnt-Procesador&quot;]/div[@class=&quot;facet__name js-facet-name&quot;]/div[@class=&quot;facet__name-txt&quot;]</value>
-      <webElementGuid>7c1f315f-48b0-4191-b150-9e53587e3a7d</webElementGuid>
+      <value>id(&quot;prices-for100253460&quot;)/div[@class=&quot;discountedPrice-grid cont-price-grid bp-original&quot;]</value>
+      <webElementGuid>fe1c22c8-cafa-47ae-ba7d-b289b8311dc6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='product__facet']/div[2]/div/div</value>
-      <webElementGuid>2344471a-aa50-47ec-aab4-a5af235328e1</webElementGuid>
+      <value>//div[@id='prices-for100253460']/div</value>
+      <webElementGuid>7f5a0621-03a2-4233-86c3-8af75c32f9ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MSI'])[2]/following::div[3]</value>
-      <webElementGuid>13eb3feb-093e-431c-86e8-2c148da4f7b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agotado'])[1]/following::div[3]</value>
+      <webElementGuid>1cc9fd84-255b-4c88-85a8-c5d11f27cdfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MSI'])[1]/following::div[3]</value>
-      <webElementGuid>035cdfd7-51b4-47db-b80b-b98c1720b9c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas'])[1]/following::div[5]</value>
+      <webElementGuid>59db78b4-2c16-4e2e-a734-607d7b996b4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[2]/preceding::div[1]</value>
-      <webElementGuid>323c1abf-7f4f-48f0-91e0-2007d2b5aac5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='grid'])[2]/preceding::div[14]</value>
+      <webElementGuid>1cc7efae-aba4-4d3e-af73-e1ba3d6b8bbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amd ryzen 3'])[1]/preceding::div[2]</value>
-      <webElementGuid>fe38beca-cb1d-4e32-a683-e05883dcc822</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Procesador']/parent::*</value>
-      <webElementGuid>df7effde-e942-4f96-aae7-77b4cd121520</webElementGuid>
+      <value>//*/text()[normalize-space(.)='$11,999.']/parent::*</value>
+      <webElementGuid>cc539ac9-540b-4853-9997-d059de4dec45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/div[2]/div/div/div[2]/div/div</value>
-      <webElementGuid>66c5c0af-c37e-4270-931e-7ee119507804</webElementGuid>
+      <value>//div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>2882716b-f128-4c3f-8d0b-b9245bf229af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,8 +105,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '
-				Procesador' or . = '
-				Procesador')]</value>
-      <webElementGuid>8ce7d38a-4f3d-49cb-abac-f4e93bbc1dba</webElementGuid>
+                $11,999.00
+    ' or . = '
+                $11,999.00
+    ')]</value>
+      <webElementGuid>a863bc8f-997c-49ea-aa1d-2c85830ffd96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

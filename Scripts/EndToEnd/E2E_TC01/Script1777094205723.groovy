@@ -46,7 +46,7 @@ WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Dep
     '')
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
-    'Katalon16@gmail.com')
+    'Katalon17@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
     'cvW8qx4B2o3J/qo+fRAOjg==')
