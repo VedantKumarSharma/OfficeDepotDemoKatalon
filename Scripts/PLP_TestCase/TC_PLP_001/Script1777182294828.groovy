@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
 WebUI.click(findTestObject('Object Repository/PLP/Page_Office Depot Mexico  Compra en lnea Ar_97767d/p_Laptops'))

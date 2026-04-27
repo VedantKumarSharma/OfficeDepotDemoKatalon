@@ -6,12 +6,12 @@
    <elementGuidId>f87ffd6b-3762-4cd1-a9e9-52878fd5a42e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='product__facet']/div/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.facet__name-txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product__facet']/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5af0555f-7db9-4a4d-9cd4-291aa9edb8c4</webElementGuid>
+      <webElementGuid>f6ab30de-28c5-4b5a-8d33-8b4dea234b00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>facet__name-txt</value>
-      <webElementGuid>7184c0cf-c263-45c4-965a-c4b00623fbec</webElementGuid>
+      <webElementGuid>8699da85-6ccf-450d-91b5-a0341cf3c723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <type>Main</type>
       <value>
 				Marca</value>
-      <webElementGuid>f628c62a-9396-4a94-9c04-70b7d1e60182</webElementGuid>
+      <webElementGuid>230a4c98-9dac-4b55-9635-c793747451b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;filtrar-menu_dsk&quot;)/div[@id=&quot;product__facet&quot;]/div[@class=&quot;facet js-facet facet-cnt-Marca&quot;]/div[@class=&quot;facet__name js-facet-name&quot;]/div[@class=&quot;facet__name-txt&quot;]</value>
-      <webElementGuid>3b938873-1253-4abe-95d6-08fc6fbc568b</webElementGuid>
+      <webElementGuid>63f1ff25-df04-4518-ba7d-2e6f0c395f6e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product__facet']/div/div/div</value>
-      <webElementGuid>9fc22d88-e2f9-4e53-9add-74f75563ee58</webElementGuid>
+      <webElementGuid>da7f4e4c-fdbc-4d31-b9ee-f522e7309d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtros'])[1]/following::div[7]</value>
-      <webElementGuid>ce476697-07a2-4b93-9b49-f853846ebbc6</webElementGuid>
+      <webElementGuid>53a9d5fd-5bf1-47ee-a2d4-b750b7b9e409</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='www.officedepot.com.mx'])[2]/following::div[65]</value>
-      <webElementGuid>1bb73d68-367d-4f17-8b5c-eb70f1049d6b</webElementGuid>
+      <webElementGuid>d3fd3a69-3447-4aec-ab8a-dc828f2068e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::div[1]</value>
-      <webElementGuid>e59a994e-cf7a-4f36-a48d-356079156d06</webElementGuid>
+      <webElementGuid>1c437b2b-ed9d-43fe-9a68-89b09fcefb01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ACER'])[1]/preceding::div[2]</value>
-      <webElementGuid>f4c06ea3-3c17-498a-9162-496952de48c3</webElementGuid>
+      <webElementGuid>b5424a4d-02d6-4834-b6b6-35ca807bb11e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Marca']/parent::*</value>
-      <webElementGuid>a0ff6e7d-d839-43cb-8879-4de6d2583bd6</webElementGuid>
+      <webElementGuid>aa5303d5-2a2a-48b9-bcb9-32d196426976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>2847e256-7ca0-48a7-b0f6-d9f316dcb891</webElementGuid>
+      <webElementGuid>5b8acdd2-30ce-432b-b1e9-8601a2ebac48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +120,6 @@
       <value>//div[(text() = '
 				Marca' or . = '
 				Marca')]</value>
-      <webElementGuid>1a172132-17fd-4199-8a9d-64f1b26fae88</webElementGuid>
+      <webElementGuid>229367b6-3928-4741-b203-4d960dc73465</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

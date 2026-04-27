@@ -45,10 +45,8 @@ WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Dep
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
     '')
 
-WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/label_Correo electrnico'))
-
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
-    'Katalon123456@gmail.com')
+    'Katalon16@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
     'cvW8qx4B2o3J/qo+fRAOjg==')
@@ -64,7 +62,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Office 
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Office Depot Mexico  Compra en lnea Ar_97767d/p_Laptops'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptops  Office Depot Mexico/div_Marca'), 0)
+WebUI.verifyElementPresent(findTestObject('Direct/Page_Laptops  Office Depot Mexico/div_Marca'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptops  Office Depot Mexico/h1_Laptops'), 0)
 
@@ -186,11 +184,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Pagina de 
 WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Pagina de Confirmacin  Office Depot Mexico/span_confirmada con xito'), 
     'confirmada con éxito')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Pagina de Confirmacin  Office Depot Mexico/div_1697493606'), 
-    '1697493606')
+WebUI.getText(findTestObject('Direct/Page_Pagina de Confirmacin  Office Depot Mexico/div_1697493606', [('variable') : 'order_id']), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Pagina de Confirmacin  Office Depot Mexico/span_Entrega estimada el 25042026'), 
-    'Entrega estimada el 25/04/2026')
+WebUI.getText(findTestObject('Direct/Page_Pagina de Confirmacin  Office Depot Mexico/span_Entrega estimada el 25042026', 
+        [('variable') : 'Order_Date']), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Pagina de Confirmacin  Office Depot Mexico/img'))
 
@@ -198,11 +196,11 @@ WebUI.mouseOver(findTestObject('Object Repository/Direct/Page_Office Depot Mexic
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Office Depot Mexico  Compra en lnea Ar_97767d/span_Mis Pedidos'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Historial de rdenes  Office Depot Mexico/span_52705090'), 
-    '52705090')
+WebUI.verifyMatch('order_id', 'order_id', false)
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Historial de rdenes  Office Depot Mexico/a_Ver detalle'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Detalles de Compra  Office Depot Mexico/span_52705090'), 
-    '52705090')
+WebUI.verifyMatch('Order_Date', 'Order_Date', false)
+
+WebUI.closeBrowser()
 

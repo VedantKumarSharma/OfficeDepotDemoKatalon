@@ -19,29 +19,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
+WebUI.setText(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/input_Agrega tu ubicacin para mejorar la ex_080146'), 
+    'Bingo')
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Iniciar sesin_usernamelogin'), 
-    'skthakur@kognivera.com')
+WebUI.click(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/button_Agrega tu ubicacin para mejorar la e_49fd67'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    '9NLz+4tGZcQ=')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/img_www.officedepot.com.mx_imgerror'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/label_Contrasea'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Te recomendamos'), 
+    0)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    'dopgMZS9m+09JXg4SNc9zA==')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Usar palabras ms simples'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/span__view-password'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Revisar tu ortografa'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/button_Iniciar sesin'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Navegar por las categoras para encontrar _a0ca3f'), 
+    0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/span_Tu correo o contrasea son incorrectos'), 
-    'Tu correo o contraseña son incorrectos.')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Continuar comprando'), 
+    0)
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/a_Continuar comprando'))
 

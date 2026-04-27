@@ -23,25 +23,14 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
+WebUI.setText(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/input_Agrega tu ubicacin para mejorar la ex_080146'), 
+    'HP Laptop')
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Iniciar sesin_usernamelogin'), 
-    'skthakur@kognivera.com')
+WebUI.click(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/button_Agrega tu ubicacin para mejorar la e_49fd67'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    '9NLz+4tGZcQ=')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_HP Laptop  Office Depot Mexico/h2_HPLaptop'), 0)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/label_Contrasea'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    'dopgMZS9m+09JXg4SNc9zA==')
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/span__view-password'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/button_Iniciar sesin'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/span_Tu correo o contrasea son incorrectos'), 
-    'Tu correo o contraseña son incorrectos.')
+WebUI.verifyTextPresent('HP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 

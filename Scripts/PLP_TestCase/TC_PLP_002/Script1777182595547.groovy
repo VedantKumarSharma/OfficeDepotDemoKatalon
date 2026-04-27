@@ -16,13 +16,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.webui.driver.DriverFactory
-import org.openqa.selenium.WebElement
-import org.openqa.selenium.By
-import java.util.Collections
-import java.util.ArrayList
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.WebElement as WebElement
+import org.openqa.selenium.By as By
+import java.util.Collections as Collections
+import java.util.ArrayList as ArrayList
 
 WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
@@ -55,44 +57,34 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  O
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/div_20,299.00'), 0)
 
-
 WebUI.delay(3)
 
+// Capture ALL product prices (removed [1])
+List<WebElement> priceElements = DriverFactory.getWebDriver().findElements(By.xpath('//div[@class=\'discountedPrice-grid cont-price-grid bp-original\']'))
 
-// Update XPath if needed for your site
-List<WebElement> priceElements = DriverFactory.getWebDriver().findElements(
-	By.xpath("(//div[@class='discountedPrice-grid cont-price-grid bp-original'])[1]")
-)
-
-List<Double> actualPrices = new ArrayList<Double>()
+List<Double> prices = new ArrayList<Double>()
 
 for (WebElement e : priceElements) {
+    String priceText = e.getText().replace('$', '').replace(',', '').trim()
 
-	String priceText = e.getText()
-	priceText = priceText.replace('$','')
-	priceText = priceText.replace(',','')
-	priceText = priceText.trim()
-
-	if (!priceText.equals("")) {
-		actualPrices.add(Double.parseDouble(priceText))
-	}
+    if (!(priceText.equals(''))) {
+        prices.add(Double.parseDouble(priceText))
+    }
 }
 
-println("Actual Prices: " + actualPrices)
+println('Captured Prices: ' + prices)
 
+// Verify descending order
+for (int i = 0; i < (prices.size() - 1); i++) {
+    if (prices.get(i) < prices.get(i + 1)) {
+        WebUI.comment((((('Sorting failed at index ' + i) + ' : ') + prices.get(i)) + ' is less than ') + prices.get(i + 
+                1))
 
-// Copy list and sort descending
-List<Double> expectedPrices = new ArrayList<Double>(actualPrices)
+        assert false : 'Sale Prices are NOT in descending order'
+    }
+}
 
-Collections.sort(expectedPrices)
-Collections.reverse(expectedPrices)
+println('Prices are in descending order')
 
-println("Expected Descending: " + expectedPrices)
-
-
-// Verify
-assert actualPrices.equals(expectedPrices) :
-	"Prices are NOT in descending order"
-	
 WebUI.closeBrowser()
 
