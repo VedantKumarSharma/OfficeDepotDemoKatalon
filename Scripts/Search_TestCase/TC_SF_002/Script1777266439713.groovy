@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 
 WebUI.setText(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/input_Agrega tu ubicacin para mejorar la ex_080146'), 
@@ -45,4 +47,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  
     0)
 
 WebUI.click(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/a_Continuar comprando'))
+
+WebUI.closeBrowser()
 
