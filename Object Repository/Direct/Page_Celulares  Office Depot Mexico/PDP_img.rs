@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PDP_img</name>
+   <tag></tag>
+   <elementGuidId>668e8477-805b-43bb-9371-983521ba561e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.lazy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot; image-gallery js-gallery&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>84f38cfb-d87b-45b7-bc1c-29b5fa44be4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>e9b947a1-98d0-4602-8dc3-294ed76a84b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/medias/300ftw-100278763.jpg?context=bWFzdGVyfHJvb3R8MTQyNDR8aW1hZ2UvanBlZ3xhRFExTDJnNU5TOHhNams0TmpZeE1UYzJNVEU0TWk4ek1EQm1kSGRmTVRBd01qYzROell6TG1wd1p3fGU3Y2I4NDIyMDc0YTAxMmI2ZjNhYzkzZDE0MDE3NzY4NTIzYWE4Y2I0NDZjMjE4ZTRlMjMyZWE1YWIzYTkxMTY</value>
+      <webElementGuid>cf1f64bc-149e-4145-89e8-86ae59526077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>/medias/300ftw-100278763.jpg?context=bWFzdGVyfHJvb3R8MTQyNDR8aW1hZ2UvanBlZ3xhRFExTDJnNU5TOHhNams0TmpZeE1UYzJNVEU0TWk4ek1EQm1kSGRmTVRBd01qYzROell6TG1wd1p3fGU3Y2I4NDIyMDc0YTAxMmI2ZjNhYzkzZDE0MDE3NzY4NTIzYWE4Y2I0NDZjMjE4ZTRlMjMyZWE1YWIzYTkxMTY</value>
+      <webElementGuid>f148a40f-e852-41b1-a55b-a8579c88a052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo</value>
+      <webElementGuid>15bc856b-f071-49af-af69-c8739ae5534d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo</value>
+      <webElementGuid>133db386-3c16-4379-91b7-c37573dca0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-productGrid pageType-CategoryPage template-pages-category-productGridPage  smartedit-page-uid-productGrid smartedit-page-uuid-eyJpdGVtSWQiOiJwcm9kdWN0R3JpZCIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container-grid2021 container-gridMX&quot;]/div[@class=&quot;container back-grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 content-grid-products&quot;]/div[@class=&quot;yCmsContentSlot product-grid-right-result-slot&quot;]/div[@class=&quot;yCmsComponent product__list--wrapper yComponentWrapper product-grid-right-result-component&quot;]/div[@class=&quot;product__switch_view product__listing product__grid&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-cnt clearfix&quot;]/a[@class=&quot;picture-product center-content-items&quot;]/div[@class=&quot;thumb center-content-items&quot;]/img[@class=&quot;lazy&quot;]</value>
+      <webElementGuid>06bc3a5b-3cc0-4f06-b1f8-95aff0ea3913</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo']</value>
+      <webElementGuid>d0c2fbde-4373-4ecb-ae20-368ab0727b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[2]/div/img</value>
+      <webElementGuid>9c22ca0b-b7e3-490d-b814-e828ad41029e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/medias/300ftw-100278763.jpg?context=bWFzdGVyfHJvb3R8MTQyNDR8aW1hZ2UvanBlZ3xhRFExTDJnNU5TOHhNams0TmpZeE1UYzJNVEU0TWk4ek1EQm1kSGRmTVRBd01qYzROell6TG1wd1p3fGU3Y2I4NDIyMDc0YTAxMmI2ZjNhYzkzZDE0MDE3NzY4NTIzYWE4Y2I0NDZjMjE4ZTRlMjMyZWE1YWIzYTkxMTY' and @alt = 'Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo' and @title = 'Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo']</value>
+      <webElementGuid>3e6150dc-fc4c-465d-98c4-79ef41cf869c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

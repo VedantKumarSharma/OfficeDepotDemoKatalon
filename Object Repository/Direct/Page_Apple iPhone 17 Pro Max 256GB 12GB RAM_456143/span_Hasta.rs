@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hasta</name>
+   <tag></tag>
+   <elementGuidId>ad1025f7-fb2a-480f-a3d0-ee8c6e83ed19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Subtlt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más planes de pago'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hasta&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fbe1a9fa-9651-4c10-bcf7-71f26595db27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Subtlt</value>
+      <webElementGuid>234c9a80-9a0a-4e81-abde-9b927d01a1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta </value>
+      <webElementGuid>f898dd57-3b42-44c8-a1ae-3c85bf3c5617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-productDetails pageType-ProductPage template-pages-product-productLayout2Page  smartedit-page-uid-productDetails smartedit-page-uuid-eyJpdGVtSWQiOiJwcm9kdWN0RGV0YWlscyIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;h-product productDetailsPanel&quot;]/div[@class=&quot;product-details page-title  product-details24&quot;]/div[@class=&quot;cont-img-detail&quot;]/div[@class=&quot;grid-cnt-detail&quot;]/div[@class=&quot;cont-inf-detail&quot;]/div[@class=&quot;cont-inf-detail24&quot;]/div[@class=&quot;col-md-12 product-main-info productDescription&quot;]/div[@class=&quot;detailsFooder&quot;]/div[@class=&quot;msi-detail&quot;]/div[@class=&quot;msiDisponible&quot;]/div[@class=&quot;msi msi6&quot;]/div[@class=&quot;opsMSI&quot;]/div[@class=&quot;msi-flex&quot;]/div[@class=&quot;total&quot;]/span[@class=&quot;Subtlt&quot;]</value>
+      <webElementGuid>dacf35d5-ef7b-46a3-97ef-e2b215dd8242</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más planes de pago'])[1]/following::span[1]</value>
+      <webElementGuid>e5419ac4-e292-4bcb-a5ea-10ab33ea9d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='o'])[1]/following::span[4]</value>
+      <webElementGuid>08be98d1-eeb4-478b-8fd8-3e88642a8be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='de'])[1]/preceding::span[2]</value>
+      <webElementGuid>775177e4-3a13-4428-9416-ccde5b906940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hasta']/parent::*</value>
+      <webElementGuid>aa8f9a70-0339-4149-b01a-36ead945a088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>6a23f6d5-d9d9-4270-83c4-1dc454973597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hasta ' or . = 'Hasta ')]</value>
+      <webElementGuid>28bd6aa1-d172-47a1-a870-31fcd2ce5f39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
