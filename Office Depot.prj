@@ -6,12 +6,12 @@
    <UUID>7ca5b822-b728-43aa-9078-a7aa7f3af374</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.4.3</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\ShubhamKumarThakur\Documents\GitHub\OfficeDepotDemoKatalon\Office Depot.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\VedantKumarSharma\Katalon Studio\Github\OfficeDepotDemo\Office Depot.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

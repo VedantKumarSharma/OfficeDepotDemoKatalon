@@ -17,6 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+// ---------- Random Generator ----------
+Random random = new Random()
+
+// Generate 3-digit number (100–999)
+int unique3Digit = random.nextInt(900) + 100
+
+// ---------- Name ----------
+GlobalVariable.name = ('sam María ' + unique3Digit)
+
+// ---------- Email ----------
+//int twoDigit = random.nextInt(90) + 10 // 10–99
+GlobalVariable.email = (('saddepalli+' + unique3Digit) + '@kognivera.com')
+
+// ---------- Logging ----------
+println('Name        : ' + GlobalVariable.name)
+
+println('Email       : ' + GlobalVariable.email)
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.officedepot.com.mx/')
@@ -26,13 +44,10 @@ WebUI.click(findTestObject('Object Repository/Direct/Page_Office Depot Mexico  C
 WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/a_Crear cuenta'))
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Crear cuenta_firstNameMaterial'), 
-    'vedant')
+    GlobalVariable.null)
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_middleNameMaterial'), 
     'sharma')
-
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_lastNameMaterial'), 
-    '')
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/label_Apellido materno'))
 
@@ -43,10 +58,7 @@ WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Dep
     '9238457934')
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
-    '')
-
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
-    'Katalon17@gmail.com')
+    GlobalVariable.email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
     'cvW8qx4B2o3J/qo+fRAOjg==')
@@ -78,12 +90,12 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptop 
 
 not_run: WebUI.click(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/div_'))
 
-WebUI.rightClick(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/div_SKU_container-img-2022'))
+not_run: WebUI.rightClick(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/div_SKU_container-img-2022'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/div_(document).ready(function()            _a4dbaa'), 
     0)
 
-WebUI.rightClick(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/h2_Descripcin y caractersticas'))
+not_run: WebUI.rightClick(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/h2_Descripcin y caractersticas'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/h2_Descripcin y caractersticas_1'), 
     0)
