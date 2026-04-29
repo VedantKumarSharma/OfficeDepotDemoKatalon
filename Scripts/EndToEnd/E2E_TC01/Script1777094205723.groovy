@@ -44,10 +44,10 @@ WebUI.click(findTestObject('Object Repository/Direct/Page_Office Depot Mexico  C
 WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/a_Crear cuenta'))
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Crear cuenta_firstNameMaterial'), 
-    GlobalVariable.null)
+    GlobalVariable.FirstName)
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_middleNameMaterial'), 
-    'sharma')
+    GlobalVariable.LastName)
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/label_Apellido materno'))
 
