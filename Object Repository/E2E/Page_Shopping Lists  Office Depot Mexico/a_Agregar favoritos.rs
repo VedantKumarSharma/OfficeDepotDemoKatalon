@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Agregar favoritos</name>
+   <tag></tag>
+   <elementGuidId>53cb5da8-7479-40b9-8666-1cea6e7fe94f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-turquesa.btn-addProductsToWishList</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartItemsDefault']/div/div[2]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e7b7bb3-dbe8-421d-a896-df88f6e1e05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/officedepot/en</value>
+      <webElementGuid>d1696437-ed77-471d-a2ff-0d2b45eb346b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-turquesa btn-addProductsToWishList</value>
+      <webElementGuid>ac31e43f-61cb-4fac-86ad-5dfdecf000d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agregar favoritos</value>
+      <webElementGuid>128b22f4-c2c7-4b21-9056-2ad3699c6608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartItemsDefault&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-6&quot;]/div[@class=&quot;text-wishList-empty&quot;]/div[@class=&quot;wishList-btn-turquesa&quot;]/a[@class=&quot;btn btn-turquesa btn-addProductsToWishList&quot;]</value>
+      <webElementGuid>51ec5c69-0bac-434e-b639-930fd64d838f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartItemsDefault']/div/div[2]/div/div[3]/a</value>
+      <webElementGuid>ea7470ee-f71d-4522-a71a-606fe4d3d507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Agregar favoritos')]</value>
+      <webElementGuid>26bffdce-8f86-4da7-8527-f9f2483fbf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guarda tus productos favoritos'])[1]/following::a[1]</value>
+      <webElementGuid>75480dc3-161d-4322-8d46-535c6f202389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inscríbete a nuestro newsletter'])[1]/preceding::a[1]</value>
+      <webElementGuid>4033da6f-2585-4848-9965-94307c672bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y recibe descuentos y promociones exclusivas.'])[1]/preceding::a[1]</value>
+      <webElementGuid>e8e86a94-0233-472c-bbde-c1216eed7405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agregar favoritos']/parent::*</value>
+      <webElementGuid>bbb1b146-1e8f-4175-9191-19a0e79da2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/officedepot/en')])[613]</value>
+      <webElementGuid>95102102-e14d-492b-a500-f803720dad0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/a</value>
+      <webElementGuid>4e6ad333-df46-4db9-832a-1795dadb9aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/officedepot/en' and (text() = 'Agregar favoritos' or . = 'Agregar favoritos')]</value>
+      <webElementGuid>9f255a85-8f6b-4b11-ac93-d77e0627c907</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

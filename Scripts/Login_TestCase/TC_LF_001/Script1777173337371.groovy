@@ -26,10 +26,10 @@ WebUI.navigateToUrl('https://www.officedepot.com.mx/')
 WebUI.click(findTestObject('Object Repository/Login/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Iniciar sesin_usernamelogin'), 
-    'skthakur@kognivera.com')
+    Email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    '9NLz+4tGZcQ=')
+WebUI.setText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
+    Password)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/label_Contrasea'))
 

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tu regreso a clases comienza con tus f_d068ea</name>
+   <tag></tag>
+   <elementGuidId>662b6ae5-eb08-40d7-8043-22d4c2aa1b42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.img-empty-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartItemsDefault']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8934ab7f-1cdf-4b0f-a20f-5cd300c15522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-empty-list</value>
+      <webElementGuid>ffa5f067-afea-4f85-8a07-7c6539c504c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartItemsDefault&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-6 img-wishList-empty&quot;]/span[@class=&quot;img-empty-list&quot;]</value>
+      <webElementGuid>c017b042-29ff-48a7-b542-e87e581635c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartItemsDefault']/div/div/span</value>
+      <webElementGuid>efe4039c-da30-4cfa-999e-9d09ab5127f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/span</value>
+      <webElementGuid>c8c97a84-7c2d-400d-adc2-1223e716b9af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

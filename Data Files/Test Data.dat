@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Login Test Data</name>
+   <name>Test Data</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>aded9441-9e32-468f-a63c-6d8e67a425d9</dataFileGUID>
-   <dataSourceUrl>C:\Users\ShubhamKumarThakur\OneDrive - Kognivera\OfficeDepot\Login credential test data.xlsx</dataSourceUrl>
+   <dataFileGUID>6cfeffe9-92b6-4a1a-9ae2-8834ab20bc3b</dataFileGUID>
+   <dataSourceUrl>../../../OneDrive - Kognivera/OfficeDepot/Login credential test data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Sheet1</sheetName>
+   <sheetName>Login</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

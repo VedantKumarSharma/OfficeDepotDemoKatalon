@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Favoritos</name>
+   <tag></tag>
+   <elementGuidId>4aa835f4-a879-4ce6-a7ea-22ee2510da5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.my-acount-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[3]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0021a499-64e1-4e38-8ae9-2f57366f9efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-acount-title</value>
+      <webElementGuid>055e2cde-b9f7-4099-ae87-e56f027894a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Favoritos</value>
+      <webElementGuid>3bfd05ca-0e29-4540-b95c-19a9ab219255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-shoppingLists pageType-ContentPage template-pages-shoppinglists-shoppingListsLayoutPage pageLabel-shoppingLists smartedit-page-uid-shoppingLists smartedit-page-uuid-eyJpdGVtSWQiOiJzaG9wcGluZ0xpc3RzIiwiY2F0YWxvZ0lkIjoib2ZmaWNlZGVwb3RDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0= smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;span-24&quot;]/div[@class=&quot;span-20 last&quot;]/div[@class=&quot;yCmsContentSlot accountBodyContentSlot&quot;]/div[@class=&quot;yCmsComponent clearfix&quot;]/div[@class=&quot;account-section favorites-list-section&quot;]/div[@class=&quot;account-section-content&quot;]/div[@class=&quot;content-myAcout header-top&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 section-panelMyAccount&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 content-title-my&quot;]/div[@class=&quot;my-acount-title&quot;]</value>
+      <webElementGuid>a300e282-7397-43c0-b22d-613cff250efc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[3]/following::div[4]</value>
+      <webElementGuid>6e0634e1-a8da-4dd3-8043-d60acc236dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favoritos'])[4]/following::div[5]</value>
+      <webElementGuid>6523acbe-ba3d-4254-8ffd-8ed86a80c52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tu regreso a clases comienza con tus favoritos.'])[1]/preceding::div[1]</value>
+      <webElementGuid>685e81e2-5b49-4297-863c-6f2ca45ac211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guarda tus productos favoritos'])[1]/preceding::div[3]</value>
+      <webElementGuid>49719449-95fa-41fd-8b4f-898682ff46e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b9befb71-ae5a-4f3b-92f9-7a6a2796c8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Favoritos' or . = 'Favoritos')]</value>
+      <webElementGuid>929d93d1-ef34-4e27-8e98-7441aefabcac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

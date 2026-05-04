@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Papel</name>
+   <tag></tag>
+   <elementGuidId>87c7d299-9e49-4d0b-95f2-27c2cebd4792</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='filaDeCategorias']/div/div/div/div[8]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fb95e2eb-c610-4d44-96cb-656392a1599a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Papel</value>
+      <webElementGuid>6bd06c8b-a3c7-4648-8e42-72544d476934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filaDeCategorias&quot;)/div[@class=&quot;contCategorias&quot;]/div[@class=&quot;swiper swiperCategorias swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide&quot;]/a[1]/p[1]</value>
+      <webElementGuid>a9ab247c-37cf-4583-9d92-f69d4da94828</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filaDeCategorias']/div/div/div/div[8]/a/p</value>
+      <webElementGuid>aac4f6bf-60c8-4c75-a9ad-19da7d259333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precio especial'])[1]/following::p[8]</value>
+      <webElementGuid>b672b7b8-4806-4843-9fc1-fad565a43afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[10]/following::p[8]</value>
+      <webElementGuid>e6fcd0f8-7b87-41a8-9c6d-314fd0e07871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptops'])[7]/preceding::p[3]</value>
+      <webElementGuid>d911a757-cb46-4e0d-80d5-06bad09db8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/p</value>
+      <webElementGuid>6c753729-918f-4bc8-aba1-a7b829aa7969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Papel' or . = 'Papel')]</value>
+      <webElementGuid>279e9d55-4674-47fe-b06a-f98e15750590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

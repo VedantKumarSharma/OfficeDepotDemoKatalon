@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nosotros los guardamos para cuando qui_981052</name>
+   <tag></tag>
+   <elementGuidId>89c68177-21b3-4439-afb7-6ed4fbdbd68e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.wishList-wetext</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartItemsDefault']/div/div[2]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cdef1198-265a-4c20-a171-a2b44da77b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishList-wetext</value>
+      <webElementGuid>78b97598-7c49-4977-895a-fb3c55e1b3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Nosotros los guardamos para cuando quieras volverlos a ver o comprar. Estarán esperándote.
+													</value>
+      <webElementGuid>6fd2c581-6796-43ac-8d6d-135418062305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartItemsDefault&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-6&quot;]/div[@class=&quot;text-wishList-empty&quot;]/div[@class=&quot;text-wishList-text&quot;]/span[@class=&quot;wishList-wetext&quot;]</value>
+      <webElementGuid>a72498c6-df19-46c3-b769-0800ad4e6d11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartItemsDefault']/div/div[2]/div/div[2]/span</value>
+      <webElementGuid>eb6ffcdd-1530-454e-acee-0eafbe6b2148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guarda tus productos favoritos'])[1]/following::span[1]</value>
+      <webElementGuid>6315a93c-8135-4a1f-b26e-0e8ee9ff567d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tu regreso a clases comienza con tus favoritos.'])[1]/following::span[3]</value>
+      <webElementGuid>f04b08b0-900a-45c2-a060-1fb69e023847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar favoritos'])[1]/preceding::span[1]</value>
+      <webElementGuid>bf92d634-021a-4327-a8a4-3688b7678571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inscríbete a nuestro newsletter'])[1]/preceding::span[1]</value>
+      <webElementGuid>c2f901b2-9625-485d-b107-511e8a896304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nosotros los guardamos para cuando quieras volverlos a ver o comprar.']/parent::*</value>
+      <webElementGuid>58908455-299d-420d-9d75-c128ab79e90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/span</value>
+      <webElementGuid>124a4dbc-1e42-49ef-9e70-b04c8e4533e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Nosotros los guardamos para cuando quieras volverlos a ver o comprar. Estarán esperándote.
+													' or . = ' Nosotros los guardamos para cuando quieras volverlos a ver o comprar. Estarán esperándote.
+													')]</value>
+      <webElementGuid>d7c5b1d5-983a-46b3-92c0-b866cda6e148</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

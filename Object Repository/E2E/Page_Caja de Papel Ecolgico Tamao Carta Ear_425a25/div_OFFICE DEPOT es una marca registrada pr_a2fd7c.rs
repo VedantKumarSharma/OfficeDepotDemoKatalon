@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OFFICE DEPOT es una marca registrada pr_a2fd7c</name>
+   <tag></tag>
+   <elementGuidId>9c6a7854-f3cf-41bf-9059-094bfc554fab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-cerrar-add-to-cart-popup.js-btn-cerrar-add-to-cart-popup</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addToCartLayer']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>691242ed-b66e-470d-8980-2253b9e51e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-cerrar-add-to-cart-popup js-btn-cerrar-add-to-cart-popup</value>
+      <webElementGuid>efda2d00-aeaa-49db-bb49-07861c455460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addToCartLayer&quot;)/div[@class=&quot;add-to-cart-item&quot;]/div[@class=&quot;btn-cerrar-add-to-cart-popup js-btn-cerrar-add-to-cart-popup&quot;]</value>
+      <webElementGuid>274c99b3-7eeb-476b-8d12-0d11d9a27dde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addToCartLayer']/div/div</value>
+      <webElementGuid>945bd55d-2098-4809-b495-ddc538873c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/div</value>
+      <webElementGuid>b1fcd921-c614-44b1-9e23-1cfb4f652606</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_67288168</name>
+   <tag></tag>
+   <elementGuidId>2a14a213-702f-4081-92f9-288520cd7ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.right.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='d1']/div/div/div/div/fieldset/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3818b4c4-73f9-406c-98ce-2acdc6a15235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right font-bold</value>
+      <webElementGuid>111160d8-3ab6-428a-8b12-6130861b0ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>67288168</value>
+      <webElementGuid>c81380ff-28d5-447a-bbb6-d20baf212d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d1&quot;)/div[@class=&quot;account-orderhistory&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-4 account-overview-table&quot;]/div[@class=&quot;row orderhistory-list-table responsive-table&quot;]/fieldset[@class=&quot;col-xs-12 accountContentPane fieldset-orderHistory fieldset-orderStatus-HPPY&quot;]/div[@class=&quot;col-xs-12 container-orderInfo&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 space-box-5 td-order-my orden-div&quot;]/span[@class=&quot;right font-bold&quot;]</value>
+      <webElementGuid>f9cca1d0-89bd-4b4e-a23e-dcec23603166</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d1']/div/div/div/div/fieldset/div/div/div/span[2]</value>
+      <webElementGuid>889ff49f-ec44-4c73-ab08-3df480815bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de pedido'])[1]/following::span[1]</value>
+      <webElementGuid>94f075aa-ce57-411e-9e68-e12932e151c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='En espera de liberación'])[1]/following::span[2]</value>
+      <webElementGuid>4e8195c6-41fa-439d-863c-5893331e4a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referencia'])[1]/preceding::span[1]</value>
+      <webElementGuid>2f1ddafd-a8df-4ab8-9ab4-4f661c8533df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='# 1703153071'])[1]/preceding::span[2]</value>
+      <webElementGuid>303f122b-e726-409f-a0c1-987c10e862cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='67288168']/parent::*</value>
+      <webElementGuid>1cf8a25a-0697-4f66-8d74-afa4156b4943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div/span[2]</value>
+      <webElementGuid>520cfa7f-1a34-4656-ac55-83c772dbd702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '67288168' or . = '67288168')]</value>
+      <webElementGuid>bfd67034-8e2e-4b7b-b33d-daff6e2a7734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

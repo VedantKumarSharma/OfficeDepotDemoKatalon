@@ -19,17 +19,17 @@
       <variableId>85b2b51e-f93a-43b4-a00f-103dcf56a3d0</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>findTestData('Test Data')</defaultValue>
       <description></description>
       <id>3f85f836-3578-4c28-b6f1-ba8361dc3eef</id>
       <masked>false</masked>
       <name>Email</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>findTestData('Test Data')</defaultValue>
       <description></description>
       <id>85b2b51e-f93a-43b4-a00f-103dcf56a3d0</id>
       <masked>false</masked>
-      <name>variable</name>
+      <name>Password</name>
    </variable>
 </TestCaseEntity>

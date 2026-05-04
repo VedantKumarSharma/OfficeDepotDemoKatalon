@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Test</name>
+   <tag></tag>
+   <elementGuidId>7931157b-b131-4c29-9fc8-ba26c7733731</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong.text_mc.text_mc_bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/following::strong[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>2e9bcb1f-5845-4737-a2da-9944e6b6e930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_mc text_mc_bold</value>
+      <webElementGuid>93c9ab1c-7b30-457e-84e4-d4e97e465812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test</value>
+      <webElementGuid>78807f76-544f-44cd-9976-36957ac5a629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-homepage pageType-ContentPage template-pages-layout-landingLayout2Page pageLabel-homepage smartedit-page-uid-homepage smartedit-page-uuid-eyJpdGVtSWQiOiJob21lcGFnZSIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/header[@class=&quot;js-mainHeader mainHeader-mx  site-officedepot&quot;]/div[@class=&quot;content-header&quot;]/nav[@class=&quot;navigation navigation--middle js-navigation--middle&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-header-mobile&quot;]/div[@class=&quot;mobile__nav__row mobile__nav__row--table&quot;]/div[@class=&quot;mobile__nav__row--table-group&quot;]/div[@class=&quot;mobile__nav__row--table-row&quot;]/div[@class=&quot;container-site-header&quot;]/div[@class=&quot;container-site-search margen-mobil&quot;]/div[@class=&quot;cont-profile-m&quot;]/label[@class=&quot;cnt-logo-user&quot;]/div[@class=&quot;d-miCuenta logged_in&quot;]/div[@class=&quot;myAccountLinksHeader miCuenta&quot;]/div[@class=&quot;content_text_mc&quot;]/strong[@class=&quot;text_mc text_mc_bold&quot;]</value>
+      <webElementGuid>4ac8ae5f-7b94-4a77-bb0c-636fd31d9f5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/following::strong[1]</value>
+      <webElementGuid>4a586d55-cc45-4714-ad70-a40101d5fd4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Realiza pedidos y cotizaciones'])[1]/following::strong[1]</value>
+      <webElementGuid>118b7794-140c-49ec-b4e1-678583dd7ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::strong[1]</value>
+      <webElementGuid>aa404e3d-8af1-4c2f-aa8c-b0198f57d31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil'])[1]/preceding::strong[1]</value>
+      <webElementGuid>f992732d-75c9-4652-8691-cbfbb20081a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test']/parent::*</value>
+      <webElementGuid>d1979e8b-dafb-4975-9728-b46130f0a34b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>0d53ddf1-e4d9-485c-a839-ff834f373157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Test' or . = 'Test')]</value>
+      <webElementGuid>58d6018b-140e-4ed9-8f37-34c270e5822f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

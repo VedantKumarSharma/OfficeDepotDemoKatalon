@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_trminos y condiciones de Office Depot__ac3903</name>
+   <tag></tag>
+   <elementGuidId>9545c337-bcc5-4dae-8397-6879f2903f04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='extendedRegisterForm']/div[7]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf91cd97-ae19-4467-893f-67c60a36310d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>1bdf7e0d-1e7e-4d16-8957-202fa0d3aa70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extendedRegisterForm&quot;)/div[@class=&quot;input-material-checkbox-wrapper d-block register-form&quot;]/label[@class=&quot;input-material-label-checkbox&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>9f6602e1-6212-4c7a-8a8c-689f6daaba14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='extendedRegisterForm']/div[7]/label/span[2]</value>
+      <webElementGuid>16d271c2-f5a0-4fe3-809d-1bd80d596d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>d4892bbe-8040-4e25-974a-7388b1772490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

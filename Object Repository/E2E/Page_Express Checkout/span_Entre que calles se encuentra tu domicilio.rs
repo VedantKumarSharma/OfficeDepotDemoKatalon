@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entre que calles se encuentra tu domicilio</name>
+   <tag></tag>
+   <elementGuidId>ff009862-0e52-47cc-9cd7-8943f7b38561</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='betweenStreet2'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.control-label.betweenStreet2 > span.checoutLabel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c5ed6ffc-4a99-4b12-8186-9ac721c229fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checoutLabel</value>
+      <webElementGuid>468472e0-8b17-4cba-8839-73130d0ff173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Entre que calles se encuentra tu domicilio</value>
+      <webElementGuid>34744a6e-4577-4cbc-8c42-34e4a000b9c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;i18nAddressForm&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-6 col-lg-7 sin-padding dotted-edge-separation-left-dsk delivery-form-dsk&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;control-label betweenStreet2&quot;]/span[@class=&quot;checoutLabel&quot;]</value>
+      <webElementGuid>5889ca61-fa6b-4984-8030-d326779b2215</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='i18nAddressForm']/div/div[3]/div[11]/div/label/span</value>
+      <webElementGuid>4a15fb33-6342-44f4-b58b-972f7c9275eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::span[2]</value>
+      <webElementGuid>89ce30e7-ed26-46df-b056-a73877f68d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referencia'])[1]/preceding::span[3]</value>
+      <webElementGuid>de58318c-7dbf-4b03-a557-5c8cd7d60442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entre que calles se encuentra tu domicilio']/parent::*</value>
+      <webElementGuid>ccfc256a-08d8-4c3e-a6e4-9e7d93a072b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/label/span</value>
+      <webElementGuid>492ba2d4-6dd2-42d0-bb13-102d68c5b2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '*Entre que calles se encuentra tu domicilio' or . = '*Entre que calles se encuentra tu domicilio')]</value>
+      <webElementGuid>8e8644f4-f5d3-4776-ad5d-ec8f78d3155f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

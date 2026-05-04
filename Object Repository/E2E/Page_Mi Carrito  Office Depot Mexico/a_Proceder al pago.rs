@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Proceder al pago</name>
+   <tag></tag>
+   <elementGuidId>73e064a9-ed99-4469-8d0d-4eeb01a769ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#visiblePickupMethods</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='visiblePickupMethods']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b85beb0b-722d-4af0-9f7e-67a5eafb0707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>visiblePickupMethods</value>
+      <webElementGuid>c229310d-bcb5-4df9-89ac-d2fdca38c1af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>onBegin_checkoutDataLayer();
+                        
+                            href=</value>
+      <webElementGuid>972024a0-243d-4f99-aecc-60f649a53dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/officedepot/en/checkout</value>
+      <webElementGuid>304cf442-58b8-45fb-a254-a7686df145aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit d-block w-100 btn btn-primary-theme font-bold</value>
+      <webElementGuid>dd07b30e-afbb-4a3b-88be-99a8eba00495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Proceder al pago</value>
+      <webElementGuid>1eada46b-14ea-4bc4-ae65-9742554f6107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-summary&quot;)/a[@id=&quot;visiblePickupMethods&quot;]</value>
+      <webElementGuid>301ae3e0-db5d-4e76-966a-04e1a30400f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='visiblePickupMethods']</value>
+      <webElementGuid>9768820e-5981-4863-abd2-7e36bdb634b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-summary']/a</value>
+      <webElementGuid>dc0e01e1-07f3-4ab5-ab76-a2d28575cf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Proceder al pago')]</value>
+      <webElementGuid>97cb89a3-ad50-4b08-95e5-12b558899f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por superar los {0} te regalamos'])[1]/following::a[1]</value>
+      <webElementGuid>815e9c67-4d6c-4e8a-9a83-6b85fe894da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[2]/following::a[1]</value>
+      <webElementGuid>76e47b8b-cf43-4c42-a47b-f2a9cf3b60ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completa tu compra'])[1]/preceding::a[2]</value>
+      <webElementGuid>139a311e-3fe0-4618-b679-ef42b9d1a40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caja de Papel Natural Tamaño Carta Earth Pact 5000 hojas'])[1]/preceding::a[3]</value>
+      <webElementGuid>e79bf6ed-51b5-4f0c-9e41-9308d034e517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceder al pago']/parent::*</value>
+      <webElementGuid>847ad515-9953-46e7-881a-1d699462e8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/officedepot/en/checkout')]</value>
+      <webElementGuid>6aab5e28-c2bb-4174-9d0e-2243dad233b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/a</value>
+      <webElementGuid>2dcdb196-c2f0-477b-9113-2fcaae2eb6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'visiblePickupMethods' and @href = '/officedepot/en/checkout' and (text() = '
+                        Proceder al pago' or . = '
+                        Proceder al pago')]</value>
+      <webElementGuid>4c25afbf-d0bb-4fc3-9d23-9a742b5d9a2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

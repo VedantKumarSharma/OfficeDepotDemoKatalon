@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Crear cuenta</name>
+   <tag></tag>
+   <elementGuidId>b6cfb5a2-46db-44db-94db-c1a8319729fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#registerButtonMaterial</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='registerButtonMaterial']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>80f05e71-2319-4770-878a-24a661d091e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>694c0780-f2a7-4682-91dd-4b95e9a84ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>registerButtonMaterial</value>
+      <webElementGuid>6d1d7e73-6a97-415b-a2e6-ae3915dbee0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit d-block w-100 btn btn-primary-theme font-bold</value>
+      <webElementGuid>619d5316-0ce0-4002-8229-3443d7918085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					Crear cuenta</value>
+      <webElementGuid>cde93821-b83f-4680-bf43-c56a1cc2585d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerButtonMaterial&quot;)</value>
+      <webElementGuid>de2c7a9a-24c5-429d-8eaa-41dfdd5ef469</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='registerButtonMaterial']</value>
+      <webElementGuid>b4fc330d-27dc-463c-976a-e11fa6d4583a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='extendedRegisterForm']/button</value>
+      <webElementGuid>3e9a2954-6cbc-4546-a68f-291b3565063a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='términos y condiciones de Office Depot'])[2]/following::button[1]</value>
+      <webElementGuid>a2534ed1-73cf-4912-a62e-316522d4b8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al crear mi cuenta, acepto los'])[1]/following::button[1]</value>
+      <webElementGuid>3a0b5abe-0b79-46cb-917c-c4bb65cd2e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Ya tienes una cuenta? Inicia sesión'])[1]/preceding::button[1]</value>
+      <webElementGuid>9c822b6e-f62f-44f3-8612-0d382afffe9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='false'])[1]/preceding::button[1]</value>
+      <webElementGuid>a0222be3-5a47-4f87-a37a-5d31c175142f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>29574f3f-6b94-4d3a-9825-2b58040298d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'registerButtonMaterial' and (text() = '
+					Crear cuenta' or . = '
+					Crear cuenta')]</value>
+      <webElementGuid>53d1e449-3794-4995-b188-ff0a346e874d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

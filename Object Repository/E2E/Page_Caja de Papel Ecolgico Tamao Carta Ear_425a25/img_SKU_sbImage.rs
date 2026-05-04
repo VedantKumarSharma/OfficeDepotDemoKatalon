@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_SKU_sbImage</name>
+   <tag></tag>
+   <elementGuidId>2f80cb74-2113-4067-ae66-3e3fa50d99b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.item.img-mini.swiper-slide-visible.swiper-slide-active.swiper-slide-thumb-active > #sbImage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@id='sbImage'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>69dceb1d-1a04-48f7-8e76-c065aaabfa45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sbImage</value>
+      <webElementGuid>2235dc96-c4a4-494d-b177-1f480bdffa82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-lazy-loaded swiper-lazy</value>
+      <webElementGuid>5ecde7a3-39ec-48c0-b8b8-0cf415dcfb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/medias/96ftw-90130.jpg?context=bWFzdGVyfHJvb3R8MzQ5MXxpbWFnZS9qcGVnfGFETTJMMmczWkM4eE1qVXlNVEExTWpRek9EVTFPQzg1Tm1aMGQxODVNREV6TUM1cWNHY3wyNjc0ZjA5ODNmOWUxNTE4MDk1NTA4ODVmZjkzZjM0YmM0NWZhNTdiNWM0ZmMyZDFmZGE2ODZiMWVjZDM0Yjk2</value>
+      <webElementGuid>daa25b8c-27ed-466a-a2bc-7b61e9c9d460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-productDetails pageType-ProductPage template-pages-product-productLayout2Page  smartedit-page-uid-productDetails smartedit-page-uuid-eyJpdGVtSWQiOiJwcm9kdWN0RGV0YWlscyIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;h-product productDetailsPanel&quot;]/div[@class=&quot;product-details page-title  product-details24&quot;]/div[@class=&quot;cont-img-detail&quot;]/div[@class=&quot;grid-cnt-detail&quot;]/div[@class=&quot;cnt-gallery-detail&quot;]/div[@class=&quot;container-img-2022&quot;]/div[@class=&quot;image-gallery js-gallery&quot;]/div[@class=&quot;swiper-thumb-pos-cnt hidden-mb&quot;]/div[@class=&quot;swiper-thumb-container swiper-container-initialized swiper-container-vertical swiper-container-thumbs&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide item img-mini swiper-slide-visible swiper-slide-active swiper-slide-thumb-active&quot;]/img[@id=&quot;sbImage&quot;]</value>
+      <webElementGuid>98f8a439-fda5-47bd-9acd-43892947a555</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//img[@id='sbImage'])[5]</value>
+      <webElementGuid>cc6e3c55-53ef-452c-9a77-150841653d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[5]/img</value>
+      <webElementGuid>d3cb4851-026c-41aa-b1bf-f9273c18ffa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'sbImage' and @src = '/medias/96ftw-90130.jpg?context=bWFzdGVyfHJvb3R8MzQ5MXxpbWFnZS9qcGVnfGFETTJMMmczWkM4eE1qVXlNVEExTWpRek9EVTFPQzg1Tm1aMGQxODVNREV6TUM1cWNHY3wyNjc0ZjA5ODNmOWUxNTE4MDk1NTA4ODVmZjkzZjM0YmM0NWZhNTdiNWM0ZmMyZDFmZGE2ODZiMWVjZDM0Yjk2']</value>
+      <webElementGuid>f4f0aaaf-79bf-4e50-9f93-35c2ce6e77e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

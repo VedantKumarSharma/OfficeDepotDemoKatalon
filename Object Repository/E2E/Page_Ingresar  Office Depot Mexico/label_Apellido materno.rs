@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Apellido materno</name>
+   <tag></tag>
+   <elementGuidId>8f93cbd7-f409-48cb-89c5-b1b14e31679f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='extendedRegisterForm']/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3ce1ba81-d885-48ea-b8da-4ecd0874bf43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>lastNameMaterial</value>
+      <webElementGuid>cfda76e4-d9b3-422a-8ff7-bff4e6612f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-material-label font-medium d-block w-100 </value>
+      <webElementGuid>ab91088b-90d3-4034-90d3-18096b901bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Apellido materno</value>
+      <webElementGuid>ae3c40b8-cf7d-4d43-8879-ba0e1343e65c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extendedRegisterForm&quot;)/div[@class=&quot;input-group-material-wrapper&quot;]/div[@class=&quot;input-group-material&quot;]/label[@class=&quot;input-material-label font-medium d-block w-100&quot;]</value>
+      <webElementGuid>511e77c4-70fd-4acf-9700-e68b458cd93d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='extendedRegisterForm']/div[2]/div[2]/label</value>
+      <webElementGuid>00393788-72b4-4af6-b565-af3095b00eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mínimo 3 caracteres'])[2]/following::label[1]</value>
+      <webElementGuid>be152448-e61d-49ff-80bb-fc5911f02ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio'])[2]/following::label[1]</value>
+      <webElementGuid>d6e609c2-72cb-400f-9a40-ba1d1e8fa59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio'])[3]/preceding::label[1]</value>
+      <webElementGuid>0a10c6e0-a506-41f0-ae68-711cd400e79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apellido materno']/parent::*</value>
+      <webElementGuid>416c1ee9-cf1a-427a-95fc-2c424dab25cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>7f09b15f-5378-4928-abea-eb4183c02db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '*Apellido materno' or . = '*Apellido materno')]</value>
+      <webElementGuid>c9dbaa6b-edcd-4fb5-97d9-7974f804219a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

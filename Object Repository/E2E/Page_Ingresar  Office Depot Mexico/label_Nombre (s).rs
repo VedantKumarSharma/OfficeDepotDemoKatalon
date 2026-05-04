@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nombre (s)</name>
+   <tag></tag>
+   <elementGuidId>4d4de19b-4180-4f9d-897b-c768e5d798fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.input-material-label.font-medium.d-block.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='extendedRegisterForm']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0f3b9e87-774a-46b2-827c-66d0fab44078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>firstNameMaterial</value>
+      <webElementGuid>a6c60b01-1637-467c-bda6-45410f017990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-material-label font-medium d-block w-100 </value>
+      <webElementGuid>3934029d-f649-4bb9-8f11-127aadf701c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Nombre (s)</value>
+      <webElementGuid>e27e99e6-2db8-4139-a67e-864e02ac6c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extendedRegisterForm&quot;)/div[@class=&quot;input-group-material&quot;]/label[@class=&quot;input-material-label font-medium d-block w-100&quot;]</value>
+      <webElementGuid>c9055ebe-0e2a-419b-a26d-6c397605097f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='extendedRegisterForm']/div/label</value>
+      <webElementGuid>da65b965-9fb1-4d46-9091-2a74dfdc6249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear cuenta'])[1]/following::label[1]</value>
+      <webElementGuid>5920aca3-366d-4e10-9cb3-3e8e3ac9fb7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saltar el menú de navegación'])[1]/following::label[1]</value>
+      <webElementGuid>c4765b3e-f4dc-418f-8b08-863fe10ea2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio'])[1]/preceding::label[1]</value>
+      <webElementGuid>e6e17d5c-161f-45e8-8d13-4f3ab0400eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nombre (s)']/parent::*</value>
+      <webElementGuid>7522dd43-7390-4d21-8741-8829e929e7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>d58bd6a8-f2b3-4e99-93e5-e7aa059ea00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '*Nombre (s)' or . = '*Nombre (s)')]</value>
+      <webElementGuid>7aa146c3-983a-4429-bfc7-43f2b290bc99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

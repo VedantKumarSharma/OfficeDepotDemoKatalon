@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Procesador</name>
+   <tag></tag>
+   <elementGuidId>3b76556c-99fb-40e7-bf75-0535780db1de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='facet__name-txt'][normalize-space()='Marca'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.facet.js-facet.facet-cnt-Procesador > div.facet__name.js-facet-name > div.facet__name-txt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9062db99-5cc1-42c0-abef-e7ba652057ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facet__name-txt</value>
+      <webElementGuid>f7a3627c-183a-4b51-a30f-3a90cdd7dd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Procesador</value>
+      <webElementGuid>1c1e3161-816d-4367-befc-485341e5bbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filtrar-menu_dsk&quot;)/div[@id=&quot;product__facet&quot;]/div[@class=&quot;facet js-facet facet-cnt-Procesador&quot;]/div[@class=&quot;facet__name js-facet-name&quot;]/div[@class=&quot;facet__name-txt&quot;]</value>
+      <webElementGuid>15ae5460-2714-4c86-a6d5-931bf3a34336</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product__facet']/div[2]/div/div</value>
+      <webElementGuid>0e291e19-916d-46d8-b24a-a1228da7a707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MSI'])[2]/following::div[3]</value>
+      <webElementGuid>a6e679cf-5d79-4241-a2fc-402fb56cccc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MSI'])[1]/following::div[3]</value>
+      <webElementGuid>c1ce11e5-71ab-4124-bf39-6c60107ab95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[2]/preceding::div[1]</value>
+      <webElementGuid>37b83fe9-e8b9-4a5f-a11a-f566977092a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amd ryzen 3'])[1]/preceding::div[2]</value>
+      <webElementGuid>33e3c682-9ffd-4223-9a62-1c68389d4ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procesador']/parent::*</value>
+      <webElementGuid>f97f6af7-d3d4-4879-aa67-93b99f3a020b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>09aa8da4-6b23-4e69-a1b8-ee524935adc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				Procesador' or . = '
+				Procesador')]</value>
+      <webElementGuid>9df8be3c-78b1-4c9f-b4fd-3ac386b71b45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

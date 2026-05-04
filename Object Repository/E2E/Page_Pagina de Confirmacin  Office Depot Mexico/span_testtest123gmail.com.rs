@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_testtest123gmail.com</name>
+   <tag></tag>
+   <elementGuidId>56e3e0a8-f3b4-47a0-8a8d-3baf90f30f8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.boldItu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de orden:'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>77c8bf84-bb7f-422d-95dd-2a59a3c4c198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boldItu</value>
+      <webElementGuid>70195144-142d-4eb2-bb67-d91f45412476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testtest123@gmail.com</value>
+      <webElementGuid>6db64dbb-fb80-4917-9787-6e4729793727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-orderConfirmationPage pageType-ContentPage template-pages-OrderConfirmationPageTemplate pageLabel-orderConfirmation smartedit-page-uid-orderConfirmationPage smartedit-page-uuid-eyJpdGVtSWQiOiJvcmRlckNvbmZpcm1hdGlvblBhZ2UiLCJjYXRhbG9nSWQiOiJvZmZpY2VkZXBvdENvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ== smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container-main-exp justify-content-flex order-confirmation&quot;]/div[@class=&quot;containers body-express-checkout&quot;]/div[@class=&quot;col-xs-12 col-md-6 col-lg-8 col-exp order-information-flex&quot;]/div[@class=&quot;containers&quot;]/fieldset[@class=&quot;col-xs-12 col-exp container-border-body-exp cnt-fieldset&quot;]/div[@class=&quot;fieldset-body col-xs-12 sin-padding&quot;]/div[@class=&quot;col-xs-12 col-lg-6 exp-order-inf&quot;]/div[@class=&quot;col-xs-12 sin-padding&quot;]/div[@class=&quot;col-xs-12 info-content-exp&quot;]/div[@class=&quot;col-xs-12 inf-content-txt&quot;]/div[1]/span[@class=&quot;boldItu&quot;]</value>
+      <webElementGuid>58f3e7c4-5f6a-4428-b2a2-8837b13497c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de orden:'])[1]/following::span[1]</value>
+      <webElementGuid>a0fec876-29a6-49f9-966f-08e77f70ce63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aquí'])[1]/preceding::span[1]</value>
+      <webElementGuid>70253b0d-5ea1-4ce6-b2af-842a2673061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/span</value>
+      <webElementGuid>bd7e0e9e-2f91-4cd1-8300-988e93a17496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'testtest123@gmail.com' or . = 'testtest123@gmail.com')]</value>
+      <webElementGuid>fb601f71-b7a0-4c6e-a628-497906ddd0f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

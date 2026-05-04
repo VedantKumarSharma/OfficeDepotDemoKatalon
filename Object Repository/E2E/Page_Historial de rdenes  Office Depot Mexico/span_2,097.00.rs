@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2,097.00</name>
+   <tag></tag>
+   <elementGuidId>344cc74b-9575-4f7a-9a6d-c6a6a23ff10f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.space-box-15.td-order-my.total-div > span.right.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='d1']/div/div/div/div/fieldset/div/div/div[3]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca8c21d0-90b2-4176-8d03-663f1944c0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right font-bold</value>
+      <webElementGuid>391885e8-af21-44cd-9c5a-7d1938f78f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$2,097.00</value>
+      <webElementGuid>f7ee2ca1-876e-488b-9188-d2eeeae7a50f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d1&quot;)/div[@class=&quot;account-orderhistory&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-4 account-overview-table&quot;]/div[@class=&quot;row orderhistory-list-table responsive-table&quot;]/fieldset[@class=&quot;col-xs-12 accountContentPane fieldset-orderHistory fieldset-orderStatus-HPPY&quot;]/div[@class=&quot;col-xs-12 container-orderInfo&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 space-box-15 td-order-my total-div&quot;]/span[@class=&quot;right font-bold&quot;]</value>
+      <webElementGuid>570eada4-a7e5-4a72-92f3-95fd3de8581e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d1']/div/div/div/div/fieldset/div/div/div[3]/span[2]</value>
+      <webElementGuid>56a6cb09-4e79-43f5-80cf-0e02709937dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::span[1]</value>
+      <webElementGuid>e80811cf-3d6f-465c-a995-1e0ff7c3d72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='# 1703153071'])[1]/following::span[3]</value>
+      <webElementGuid>783685b9-4637-4280-a654-8970dbd2e031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pedido el 30 abr. 2026 04:04'])[1]/preceding::span[1]</value>
+      <webElementGuid>879bd95e-f40e-4cc0-ac6b-2949cfd5c8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver detalle'])[1]/preceding::span[2]</value>
+      <webElementGuid>40f7e891-ed6b-4ba8-8459-3fb016719317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$2,097.00']/parent::*</value>
+      <webElementGuid>f6c0cfc7-e124-40cd-8311-71cd54b9f0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span[2]</value>
+      <webElementGuid>573b8e99-29df-44d2-bcdb-d9aba2840b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$2,097.00' or . = '$2,097.00')]</value>
+      <webElementGuid>83a2ada0-1b6c-4930-9f03-8f5a6ae9e4ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Finalizar mi compra</name>
+   <tag></tag>
+   <elementGuidId>5f57763b-542e-4e71-84fc-cc5a0fe28c90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lastInTheForm123</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='lastInTheForm123']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1031ce75-862a-4d83-ae44-106160c8fd13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-block</value>
+      <webElementGuid>0d2bf523-01db-4b8f-a23d-53317d771423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>048159a1-6db9-42ad-8b2f-ddc6f360de25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ExpressDataLayerPago(); </value>
+      <webElementGuid>38dcbc6a-4470-4c0e-99e2-153409af0b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lastInTheForm123</value>
+      <webElementGuid>ccf8d8ce-7efa-41c8-87bb-6f2dd1db9acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Finalizar mi compra
+                        </value>
+      <webElementGuid>d1448d9b-e8dd-424e-a0c8-d4bac76d524d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lastInTheForm123&quot;)</value>
+      <webElementGuid>eed9bbff-b082-4082-9038-8d5be7438887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='lastInTheForm123']</value>
+      <webElementGuid>101f8c01-b216-4f15-99e6-994a3325c4ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lastInTheForm123F']/button</value>
+      <webElementGuid>386fe18c-2c37-43ba-8938-ff85c5fcbe26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='antes de realizar el pago.'])[1]/following::button[1]</value>
+      <webElementGuid>587ddf38-9353-45d7-a664-3349fe805568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aquí'])[2]/preceding::button[1]</value>
+      <webElementGuid>095f765a-7a15-48d4-a252-fdefb9e797f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Finalizar mi compra']/parent::*</value>
+      <webElementGuid>6cae7ba0-f8c4-4136-b03c-e49d35fa72ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>aea083a7-b17a-436b-898a-6829e80f66da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'lastInTheForm123' and (text() = '
+                            Finalizar mi compra
+                        ' or . = '
+                            Finalizar mi compra
+                        ')]</value>
+      <webElementGuid>0916cf37-9655-4913-ab1b-14751e509a0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

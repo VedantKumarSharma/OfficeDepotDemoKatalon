@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2,097.00_1</name>
+   <tag></tag>
+   <elementGuidId>a8457395-d86e-4110-9a97-b7eff4346260</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-7.text-right.color-rojo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order-summary']/div/div/div/div[2]/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aedb9c96-d9f3-4569-841e-10d7d8635810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-7 text-right color-rojo</value>
+      <webElementGuid>a7ca0046-afe1-4c77-b061-b23dea6b459f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            $2,097.00
+                    </value>
+      <webElementGuid>7edff097-4b44-40d6-a7f2-afbdc28bc5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-summary&quot;)/div[@class=&quot;box-shadow&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;cart-summary-content&quot;]/div[@class=&quot;row cart-summary-row cart-summary-row-total font-bold&quot;]/div[@class=&quot;col-xs-7 text-right color-rojo&quot;]</value>
+      <webElementGuid>6c166253-6d2a-41c2-8081-18d866146cd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-summary']/div/div/div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>2da91270-c48f-4355-8eb1-1a07a22b1b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::div[1]</value>
+      <webElementGuid>dcf07c21-c4f5-408f-bee9-41af7ced863b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::div[1]</value>
+      <webElementGuid>3d3dc9c8-173b-46aa-b6f5-ced0b4adefc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>49da8b76-1b18-41de-bbac-d12290827834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            $2,097.00
+                    ' or . = '
+            $2,097.00
+                    ')]</value>
+      <webElementGuid>4cc571c4-30ed-4f8e-9283-ddb0faba8adc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

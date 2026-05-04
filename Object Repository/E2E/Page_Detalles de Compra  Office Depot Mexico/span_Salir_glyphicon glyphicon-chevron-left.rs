@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Salir_glyphicon glyphicon-chevron-left</name>
+   <tag></tag>
+   <elementGuidId>dfa0cfcf-42a8-45c9-9459-52a195653335</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-chevron-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e506c878-f274-4f7b-b100-dadfd93332db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-chevron-left</value>
+      <webElementGuid>e30e8d23-3b57-403d-b7f2-2a573948b045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-order pageType-ContentPage template-pages-account-accountLayoutPage pageLabel-order smartedit-page-uid-order smartedit-page-uuid-eyJpdGVtSWQiOiJvcmRlciIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;account-section&quot;]/div[@class=&quot;yCmsContentSlot account-section-content&quot;]/div[@class=&quot;content-myAcout accountOrderHistoryPage&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 section-panelMyAccount&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 content-title-my&quot;]/div[@class=&quot;my-acount-title&quot;]/div[@class=&quot;back-link history js-backlink&quot;]/a[1]/span[@class=&quot;glyphicon glyphicon-chevron-left&quot;]</value>
+      <webElementGuid>93ad2526-75ed-432b-b8b9-957cc03eeb73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/span</value>
+      <webElementGuid>97779335-7304-467f-bc06-98678ab9fdd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

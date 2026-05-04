@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_grid_lazy</name>
+   <tag></tag>
+   <elementGuidId>e07b58ca-7cad-4f9b-812c-66a737c85050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.lazy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7cca9ea9-8163-440f-a1f7-53e483ae1d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>42732186-5415-405d-98df-cad21f4cb65f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/medias/300ftw-100253460.jpg?context=bWFzdGVyfHJvb3R8OTM3N3xpbWFnZS9qcGVnfGFERXdMMmd4T1M4eE16QXpNVE0yTXpNME5qUTJNaTh6TURCbWRIZGZNVEF3TWpVek5EWXdMbXB3Wnd8MWIzOGEyMTk2YTY2MWQ4NDg5YTZiOTEyZDVlOTBmY2NhMzg5ODdkYzYwMTRkNDI1NzQ0ODJiZDU0ODJiZTc3Mw</value>
+      <webElementGuid>f110482e-91bb-4442-8dc1-9bc107a3b98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>/medias/300ftw-100253460.jpg?context=bWFzdGVyfHJvb3R8OTM3N3xpbWFnZS9qcGVnfGFERXdMMmd4T1M4eE16QXpNVE0yTXpNME5qUTJNaTh6TURCbWRIZGZNVEF3TWpVek5EWXdMbXB3Wnd8MWIzOGEyMTk2YTY2MWQ4NDg5YTZiOTEyZDVlOTBmY2NhMzg5ODdkYzYwMTRkNDI1NzQ0ODJiZDU0ODJiZTc3Mw</value>
+      <webElementGuid>e7675d13-1dd5-45f2-940b-35d3d624afe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas</value>
+      <webElementGuid>b82979e8-ba57-462a-996d-9e73be43f813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas</value>
+      <webElementGuid>0f429fa7-0b2e-4234-bb13-5e7d410e76bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-productGrid pageType-CategoryPage template-pages-category-productGridPage  smartedit-page-uid-productGrid smartedit-page-uuid-eyJpdGVtSWQiOiJwcm9kdWN0R3JpZCIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container-grid2021 container-gridMX&quot;]/div[@class=&quot;container back-grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 content-grid-products&quot;]/div[@class=&quot;yCmsContentSlot product-grid-right-result-slot&quot;]/div[@class=&quot;yCmsComponent product__list--wrapper yComponentWrapper product-grid-right-result-component&quot;]/div[@class=&quot;product__switch_view product__listing product__grid&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-cnt clearfix&quot;]/a[@class=&quot;picture-product center-content-items&quot;]/div[@class=&quot;thumb center-content-items&quot;]/img[@class=&quot;lazy&quot;]</value>
+      <webElementGuid>593888e6-9bae-49c2-8623-5cb6a9e4c4a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas']</value>
+      <webElementGuid>5158d826-a297-4321-825a-4f14b52b31b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/img</value>
+      <webElementGuid>b9e42038-b019-4d2a-8ce1-207cc556a2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/medias/300ftw-100253460.jpg?context=bWFzdGVyfHJvb3R8OTM3N3xpbWFnZS9qcGVnfGFERXdMMmd4T1M4eE16QXpNVE0yTXpNME5qUTJNaTh6TURCbWRIZGZNVEF3TWpVek5EWXdMbXB3Wnd8MWIzOGEyMTk2YTY2MWQ4NDg5YTZiOTEyZDVlOTBmY2NhMzg5ODdkYzYwMTRkNDI1NzQ0ODJiZDU0ODJiZTc3Mw' and @alt = 'Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas' and @title = 'Laptop Asus Vivobook 15 Intel Core i5 8GB RAM 512GB SSD 15.6 pulgadas']</value>
+      <webElementGuid>977d12f9-0569-4b78-84f0-461041ba2492</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
