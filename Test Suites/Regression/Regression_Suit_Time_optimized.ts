@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Smoke_Test_Case_001</name>
+   <name>Regression_Suit_Time_optimized</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,54 +10,61 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>239ee17b-52b1-4313-8340-4178fa1c4ecd</testSuiteGuid>
+   <testSuiteGuid>cf8f8e25-6055-459e-8e39-c23c4cc750ed</testSuiteGuid>
    <testCaseLink>
-      <guid>7e2c0cbe-e1a8-4f6a-a1e2-fde6b28778fb</guid>
+      <guid>a8561e99-4bc9-4fed-b906-1bdf19b6d9bc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create_Account_TestCase/TC_CA_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_CA_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>10e4b78f-b7b6-4a3f-ac2d-dec97bc03f3f</guid>
+      <guid>94fdee35-ba3f-4ef1-9596-c20377f87f65</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <iterationNameVariable>
-         <defaultValue>'tdhcgxf'</defaultValue>
-         <description></description>
-         <id>3f85f836-3578-4c28-b6f1-ba8361dc3eef</id>
-         <masked>false</masked>
-         <name>Email</name>
-      </iterationNameVariable>
-      <testCaseId>Test Cases/Login_TestCase/TC_LF_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_LF_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d63878de-49cb-4700-bcce-0da187ff0326</guid>
+      <guid>f326c017-e088-41e0-aab2-5e97dfafd1b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logout_TestCase/TC_LO_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_LO_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>de747292-eabb-4f35-a730-c0e8271151b7</guid>
+      <guid>e8f681fd-9582-4bfc-acde-21ff5e238377</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search_TestCase/TC_SF_002</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_SF_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6b897d07-a44b-48d8-811c-962f54180ef8</guid>
+      <guid>68d7c68b-3baa-4bc9-9dbb-f1a027a0fb3e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PLP_TestCase/TC_PLP_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_PLP_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f62a33c9-08a1-4d56-9426-0bce5d1dda19</guid>
+      <guid>d32b2cd3-09ad-431d-a1d1-e92a575396a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PDP/TC_01</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_01</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8d3ce1e1-31a8-4a5d-90bf-be102adf9c66</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_PLP_002</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3fbd5398-6a33-46ec-891a-92e90cd07014</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_LF_002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
