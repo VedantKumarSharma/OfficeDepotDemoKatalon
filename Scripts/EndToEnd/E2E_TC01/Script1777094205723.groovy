@@ -49,19 +49,17 @@ WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Dep
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_middleNameMaterial'), 
     GlobalVariable.LastName)
 
-WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/label_Apellido materno'))
-
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_lastNameMaterial'), 
     'kumar')
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_phoneMaterial'), 
-    '9238457934')
+    GlobalVariable.PhoneNumber)
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
     GlobalVariable.email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
-    'cvW8qx4B2o3J/qo+fRAOjg==')
+WebUI.setText(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
+    'Shubhum123@6')
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Ingresar  Office Depot Mexico/span_trminos y condiciones de Office Depot__ac3903'))
 
@@ -97,9 +95,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptop 
 
 not_run: WebUI.rightClick(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/h2_Descripcin y caractersticas'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/h2_Descripcin y caractersticas_1'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Direct/Page_Laptop Acer Aspire Lite 15 Intel Core _f04cbb/span_Blog_imgFavs'))
 
 not_run: WebUI.verifyElementNotVisible(findTestObject('Object Repository/Direct/Page_Shopping Lists  Office Depot Mexico/div_Guarda tus productos favoritos Nosotros_25db94'))
@@ -107,7 +102,7 @@ not_run: WebUI.verifyElementNotVisible(findTestObject('Object Repository/Direct/
 WebUI.verifyElementText(findTestObject('Object Repository/Direct/Page_Shopping Lists  Office Depot Mexico/span_Guarda tus productos favoritos'), 
     'Guarda tus productos favoritos')
 
-WebUI.setText(findTestObject('New Dynamic Objects/SearchBar'), 'laptop')
+WebUI.setText(findTestObject('New Dynamic Objects/SearchBar'), GlobalVariable.productSearch)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Shopping Lists  Office Depot Mexico/div_Laptop Gamer Asus TUF F16 NVIDIA GeForc_3e3469'), 
     0)
@@ -159,23 +154,23 @@ WebUI.click(findTestObject('Object Repository/Direct/Page_Express Checkout/butto
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Express Checkout/input__streetName'))
 
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__postalcode'), '64000')
+WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__postalcode'), GlobalVariable.postalCode)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Express Checkout/select_MONTERREY CENTROLA FINCAOtra Colonia'), 
     0)
 
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__streetName'), 'St maxtest')
+WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__streetName'), GlobalVariable.StreetName)
 
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__streetNumber'), '980')
+WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__streetNumber'), GlobalVariable.StreetNum)
 
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input_Nmero interno_address.interiorNo'), 'A1')
+WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input_Nmero interno_address.interiorNo'), GlobalVariable.InteriorNum)
 
 WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input_(ej. departamento 3 edificio A, puert_f49e7a'), 
-    'near teator')
+    GlobalVariable.Reference)
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Express Checkout/label_Entre que calles se encuentra tu domicilio'))
 
-WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__betweenStreet2'), 'Monterrey centro')
+WebUI.setText(findTestObject('Object Repository/Direct/Page_Express Checkout/input__betweenStreet2'), GlobalVariable.Street2)
 
 WebUI.click(findTestObject('Object Repository/Direct/Page_Express Checkout/input_Verifica tu ubicacin_saveAddressInMyA_91c621'))
 
