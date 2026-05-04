@@ -1,84 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Regression_Test_Suites</name>
+   <name>Regression_Test_Demo</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>10</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>4de1b936-7503-44f6-ae7c-66e661982a46</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>cf8f8e25-6055-459e-8e39-c23c4cc750ed</testSuiteGuid>
    <testCaseLink>
-      <guid>06e3ba13-294f-4dfb-97bb-b9506ece3669</guid>
+      <guid>a8561e99-4bc9-4fed-b906-1bdf19b6d9bc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create_Account_TestCase/TC_CA_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_CA_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>97c5f428-20b7-430a-8128-23e2498461e8</guid>
+      <guid>94fdee35-ba3f-4ef1-9596-c20377f87f65</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCase/LC_LF_004</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_LF_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1c098f47-f58f-4cfc-9ea3-e1379505c922</guid>
+      <guid>f326c017-e088-41e0-aab2-5e97dfafd1b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCase/TC_LF_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_LO_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>304b8da9-a6db-4fbf-b328-f65adf30c1dc</guid>
+      <guid>e8f681fd-9582-4bfc-acde-21ff5e238377</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logout_TestCase/TC_LO_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_SF_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>063f6484-cd3a-4ea8-b432-4e870c7d2a1c</guid>
+      <guid>68d7c68b-3baa-4bc9-9dbb-f1a027a0fb3e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logout_TestCase/TC_LO_002</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_PLP_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7e38a414-2b78-485f-a5a3-041165e06c0f</guid>
+      <guid>d32b2cd3-09ad-431d-a1d1-e92a575396a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PDP/TC_01</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>212c4eaf-aac1-49d6-9a31-867adc44b11c</guid>
+      <guid>8d3ce1e1-31a8-4a5d-90bf-be102adf9c66</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PLP_TestCase/TC_PLP_001</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_PLP_002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ef39bdb2-7c5e-4f7d-9abd-3128d16f7b10</guid>
+      <guid>3fbd5398-6a33-46ec-891a-92e90cd07014</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PLP_TestCase/TC_PLP_002</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d2f1b18d-26df-4b86-8c79-8d648715f26f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Search_TestCase/TC_SF_001</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a5ad324d-7e3e-444a-b89d-a120b20fdeb8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Search_TestCase/TC_SF_002</testCaseId>
+      <testCaseId>Test Cases/TestCase_For_Suites/TC_LF_002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

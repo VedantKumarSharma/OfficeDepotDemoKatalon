@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>TC_LF_001</name>
+   <description>Verify Product details page</description>
+   <name>TC_01</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d8acf463-1bba-49e8-ae5f-311b731cd0c8</testCaseGuid>
+   <testCaseGuid>4a4c4f30-8b87-4de3-a42e-aa6895720beb</testCaseGuid>
 </TestCaseEntity>

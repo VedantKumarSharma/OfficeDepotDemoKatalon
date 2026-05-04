@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_LF_001</name>
+   <name>Navigate_to_Login</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d8acf463-1bba-49e8-ae5f-311b731cd0c8</testCaseGuid>
+   <testCaseGuid>1a92851f-607a-4e86-b06b-83f60abec184</testCaseGuid>
 </TestCaseEntity>

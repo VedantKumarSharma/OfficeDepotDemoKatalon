@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_LF_001</name>
+   <name>TC_SF_002</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d8acf463-1bba-49e8-ae5f-311b731cd0c8</testCaseGuid>
+   <testCaseGuid>d240c931-702d-4b09-89da-bb09c15f97b8</testCaseGuid>
 </TestCaseEntity>

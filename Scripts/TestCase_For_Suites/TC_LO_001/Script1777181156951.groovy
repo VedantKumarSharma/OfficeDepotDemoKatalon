@@ -17,26 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.mouseOver(findTestObject('Object Repository/Logout/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_Shubham Kumar'))
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Logout/Page_Office Depot Mexico  Compra en lnea Ar_97767d/span_Salir'))
 
-WebUI.navigateToUrl(GlobalVariable.URL)
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Iniciar sesin_usernamelogin'), 
-    'skthakur@kognivera.')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    'dopgMZS9m+2HSvTCorbjBA==')
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/span__view-password'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/button_Iniciar sesin'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Login/Page_Ingresar  Office Depot Mexico/div_Por favor ingresa un correo vlido'), 
-    'Por favor ingresa un correo válido')
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Logout/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'), 
+    'sesión')
 

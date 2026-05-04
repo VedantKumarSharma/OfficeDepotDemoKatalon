@@ -18,12 +18,13 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
+import com.email.utils.ShareEmail as ShareEmail
 
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://www.officedepot.com.mx/')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
 
@@ -34,26 +35,26 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Ingresar  
 WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/h1_Crear cuenta'), 0)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Crear cuenta_firstNameMaterial'), 
-    'test')
+    GlobalVariable.CreateAccount_First_Name)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_middleNameMaterial'), 
-    'test')
+    GlobalVariable.CreateAccount_Middle_Name)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_lastNameMaterial'), 
-    'test')
+    GlobalVariable.CreateAccount_Last_Name)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_phoneMaterial'), 
-    '6456453546')
+    GlobalVariable.CreateAccount_phone_Number)
 
 def timestamp = new SimpleDateFormat('yyyyMMddHHmmss').format(new Date())
 
-GlobalVariable.CreateAccount_Email = "test$timestamp@gmail.com"
+ShareEmail.email = "test$timestamp@gmail.com"
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
-    GlobalVariable.CreateAccount_Email)
+    ShareEmail.email)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
-    'Test@Test1234')
+    GlobalVariable.CreateAccount_Password)
 
 WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/span__view-password'))
 
@@ -62,7 +63,7 @@ WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Me
 WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/button_Crear cuenta'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_test'), 
-    'test')
+    GlobalVariable.CreateAccount_First_Name)
 
 WebUI.click(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/span_Favoritos'))
 
@@ -174,20 +175,20 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito
 
 WebUI.click(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/a_Proceder al pago'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('E2E/Page_Express Checkout/input__streetName'), 'Calle Padre Mier')
+WebUI.setText(findTestObject('E2E/Page_Express Checkout/input__streetName'), GlobalVariable.Address_Street_Name)
 
-WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input__streetNumber'), '980')
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input__streetNumber'), GlobalVariable.Address_Street_Number)
 
-WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input__postalcode'), '64000')
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input__postalcode'), GlobalVariable.Address_PostalCode)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Express Checkout/select_MONTERREY CENTROLA FINCAOtra Colonia'), 
     0)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/span_Entre que calles se encuentra tu domicilio'), 
-    'Monterrey Centro')
+    GlobalVariable.Address_Between_which_streets)
 
 WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input_(ej. departamento 3 edificio A, puert_f49e7a'), 
-    'Monterrey Centro')
+    GlobalVariable.Address_references_or_directions)
 
 WebUI.click(findTestObject('Object Repository/E2E/Page_Express Checkout/input_Verifica tu ubicacin_saveAddressInMyA_91c621'))
 

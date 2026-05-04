@@ -6,12 +6,12 @@
    <elementGuidId>7931157b-b131-4c29-9fc8-ba26c7733731</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>strong.text_mc.text_mc_bold</value>
+         <key>XPATH</key>
+         <value>(//strong[@class='text_mc text_mc_bold'])[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/following::strong[1]</value>
+         <key>CSS</key>
+         <value>strong.text_mc.text_mc_bold</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>2e9bcb1f-5845-4737-a2da-9944e6b6e930</webElementGuid>
+      <webElementGuid>9e2460c0-448e-4678-bf9f-40725703fdae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_mc text_mc_bold</value>
-      <webElementGuid>93c9ab1c-7b30-457e-84e4-d4e97e465812</webElementGuid>
+      <webElementGuid>0b2baf1f-6fce-464f-8857-37f56048389c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test</value>
-      <webElementGuid>78807f76-544f-44cd-9976-36957ac5a629</webElementGuid>
+      <webElementGuid>37473300-be18-4e3c-b814-a03e78f62993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-homepage pageType-ContentPage template-pages-layout-landingLayout2Page pageLabel-homepage smartedit-page-uid-homepage smartedit-page-uuid-eyJpdGVtSWQiOiJob21lcGFnZSIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/header[@class=&quot;js-mainHeader mainHeader-mx  site-officedepot&quot;]/div[@class=&quot;content-header&quot;]/nav[@class=&quot;navigation navigation--middle js-navigation--middle&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-header-mobile&quot;]/div[@class=&quot;mobile__nav__row mobile__nav__row--table&quot;]/div[@class=&quot;mobile__nav__row--table-group&quot;]/div[@class=&quot;mobile__nav__row--table-row&quot;]/div[@class=&quot;container-site-header&quot;]/div[@class=&quot;container-site-search margen-mobil&quot;]/div[@class=&quot;cont-profile-m&quot;]/label[@class=&quot;cnt-logo-user&quot;]/div[@class=&quot;d-miCuenta logged_in&quot;]/div[@class=&quot;myAccountLinksHeader miCuenta&quot;]/div[@class=&quot;content_text_mc&quot;]/strong[@class=&quot;text_mc text_mc_bold&quot;]</value>
-      <webElementGuid>4ac8ae5f-7b94-4a77-bb0c-636fd31d9f5d</webElementGuid>
+      <webElementGuid>686daa9c-2956-4358-92d4-5955acf00f64</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/following::strong[1]</value>
-      <webElementGuid>4a586d55-cc45-4714-ad70-a40101d5fd4b</webElementGuid>
+      <webElementGuid>a9d69f96-22ff-4ddc-9d38-45333a293f15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Realiza pedidos y cotizaciones'])[1]/following::strong[1]</value>
-      <webElementGuid>118b7794-140c-49ec-b4e1-678583dd7ab7</webElementGuid>
+      <webElementGuid>01a50cee-20d8-4411-9642-8e7e6011949f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::strong[1]</value>
-      <webElementGuid>aa404e3d-8af1-4c2f-aa8c-b0198f57d31c</webElementGuid>
+      <webElementGuid>dc0be24d-3e73-4766-94a3-9808c6ffaa3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil'])[1]/preceding::strong[1]</value>
-      <webElementGuid>f992732d-75c9-4652-8691-cbfbb20081a0</webElementGuid>
+      <webElementGuid>52016a48-bded-47e3-8121-960a0dc1fae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Test']/parent::*</value>
-      <webElementGuid>d1979e8b-dafb-4975-9728-b46130f0a34b</webElementGuid>
+      <webElementGuid>321f2ca3-dbcf-4c94-a25e-53d9ec05e506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//strong</value>
-      <webElementGuid>0d53ddf1-e4d9-485c-a839-ff834f373157</webElementGuid>
+      <webElementGuid>f7a2093b-cfb4-4e68-967f-54246fff3a0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = 'Test' or . = 'Test')]</value>
-      <webElementGuid>58d6018b-140e-4ed9-8f37-34c270e5822f</webElementGuid>
+      <webElementGuid>6f7164ca-ac9b-463b-a8a6-9de67ae99235</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

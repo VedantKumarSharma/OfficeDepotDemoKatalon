@@ -22,9 +22,9 @@ import org.openqa.selenium.By as By
 import java.util.Collections as Collections
 import java.util.ArrayList as ArrayList
 
-WebUI.openBrowser('')
+not_run: WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+not_run: WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
@@ -79,13 +79,14 @@ for (int i = 0; i < (prices.size() - 1); i++) {
     if (prices.get(i) < prices.get(i + 1)) {
         WebUI.comment((((('Sorting failed at index ' + i) + ' : ') + prices.get(i)) + ' is less than ') + prices.get(i + 
                 1))
-		WebUI.takeScreenshot()
+
+        WebUI.takeScreenshot()
+
         assert false : 'Sale Prices are NOT in descending order'
-		
     }
 }
 
 println('Prices are in descending order')
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

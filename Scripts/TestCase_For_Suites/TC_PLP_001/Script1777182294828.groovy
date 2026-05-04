@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Object Repository/PLP/Page_Office Depot Mexico  Compra en lnea Ar_97767d/PLP_p_Laptops'))
@@ -45,6 +41,4 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  O
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/PLP/Page_Laptops  Office Depot Mexico/PLP_Product_1_Descount_Price'), 
     0)
-
-WebUI.closeBrowser()
 

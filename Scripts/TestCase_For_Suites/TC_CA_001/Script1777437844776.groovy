@@ -22,6 +22,8 @@ import com.email.utils.ShareEmail as ShareEmail
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Object Repository/Careate Account/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))

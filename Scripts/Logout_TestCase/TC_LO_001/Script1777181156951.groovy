@@ -21,17 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://www.officedepot.com.mx/')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.click(findTestObject('Object Repository/Logout/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
-
-WebUI.setText(findTestObject('Object Repository/Logout/Page_Ingresar  Office Depot Mexico/input_Iniciar sesin_usernamelogin'), 
-    'skthakur@kognivera.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Logout/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_j_p_38a518'), 
-    'dopgMZS9m+2HSvTCorbjBA==')
-
-WebUI.click(findTestObject('Object Repository/Logout/Page_Ingresar  Office Depot Mexico/button_Iniciar sesin'))
+WebUI.callTestCase(findTestCase('Method/Navigate_to_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Logout/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_Shubham Kumar'), 
     'Shubham Kumar')

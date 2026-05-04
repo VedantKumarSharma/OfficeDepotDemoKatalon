@@ -17,36 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl(GlobalVariable.URL)
-
 WebUI.setText(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/input_Agrega tu ubicacin para mejorar la ex_080146'), 
-    'Bingo')
+    'HP Laptop')
 
 WebUI.click(findTestObject('Object Repository/Search/Page_Office Depot Mexico  Compra en lnea Ar_97767d/button_Agrega tu ubicacin para mejorar la e_49fd67'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/img_www.officedepot.com.mx_imgerror'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_HP Laptop  Office Depot Mexico/h2_HPLaptop'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Te recomendamos'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Usar palabras ms simples'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Revisar tu ortografa'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Navegar por las categoras para encontrar _a0ca3f'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/p_Continuar comprando'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Search/Page_Bingo  Office Depot Mexico/a_Continuar comprando'))
-
-WebUI.closeBrowser()
+WebUI.verifyTextPresent('HP', false, FailureHandling.STOP_ON_FAILURE)
 
