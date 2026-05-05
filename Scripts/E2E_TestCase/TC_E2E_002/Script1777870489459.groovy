@@ -1,0 +1,212 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import com.email.utils.ShareEmail as ShareEmail
+
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_sesin'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/a_Crear cuenta'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/img'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/h1_Crear cuenta'), 0)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Crear cuenta_firstNameMaterial'), 
+    GlobalVariable.CreateAccount_First_Name)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_middleNameMaterial'), 
+    GlobalVariable.CreateAccount_Middle_Name)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_lastNameMaterial'), 
+    GlobalVariable.CreateAccount_Last_Name)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 3 caracteres_phoneMaterial'), 
+    GlobalVariable.CreateAccount_phone_Number)
+
+def timestamp = new SimpleDateFormat('yyyyMMddHHmmss').format(new Date())
+
+ShareEmail.email = "test$timestamp@gmail.com"
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Mnimo 10 dgitos_emailMaterial'), 
+    ShareEmail.email)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/input_Por favor ingresa un correo vlido_pas_e12d55'), 
+    GlobalVariable.CreateAccount_Password)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/span__view-password'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/span_trminos y condiciones de Office Depot__ac3903'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Ingresar  Office Depot Mexico/button_Crear cuenta'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/strong_test'), 
+    GlobalVariable.CreateAccount_First_Name)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/span_Favoritos'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/div_Favoritos'), 
+    'Favoritos')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/div_Tu regreso a clases comienza con tus favoritos'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/span_Guarda tus productos favoritos'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/span_Nosotros los guardamos para cuando qui_981052'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/a_Agregar favoritos'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/span_Tu regreso a clases comienza con tus f_d068ea'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Shopping Lists  Office Depot Mexico/img'), 0)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/span_Mis productos'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/h2_Eliminaste todos los productos de tu carrito'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/img'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Office Depot Mexico  Compra en lnea Ar_97767d/p_Laptops'))
+
+WebUI.verifyElementPresent(findTestObject('E2E/Page_Laptops  Office Depot Mexico/div_Marca'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/div_Procesador'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/label_Ms relevante                         _d358f7'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/img_grid_lazy'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/div_grid_select-heart-od heart-noanonym-od'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/span_SKU'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/h2_Laptop Asus Vivobook 15 Intel Core i5 8G_c3f615'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/div_11,999.00'), 0)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/div_grid_select-heart-od heart-noanonym-od'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Laptops  Office Depot Mexico/p_Papel'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_papeleria  Office Depot Mexico/h2_Caja de Papel Ecolgico Tamao Carta Earth_1358a8'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/h1_Caja de Papel Ecolgico Tamao Carta Earth_8539ab'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/span_SKU'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/div_699.00'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/img_SKU_sbImage'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/img_SKU_sbImage_1'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/div_Cantidad_flecha-cantidad-mb'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/li_3'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/button_Aadir al carrito'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/h2_Descripcin y caractersticas'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/button_Aadir al carrito'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/div_OFFICE DEPOT es una marca registrada pr_a2fd7c'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Caja de Papel Ecolgico Tamao Carta Ear_425a25/span_Mis productos'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/div_Mi carrito'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/img_Gratis_lazy'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/div_Caja de Papel Ecolgico Tamao Carta Eart_ee900d'), 
+    0)
+
+WebUI.getText(findTestObject('E2E/Page_Mi Carrito  Office Depot Mexico/div_2,097.00', [('variable') : 'Order_Total']), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/input_2,097.00_input_quantity_0'), 
+    '')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/small_ID del carrito 1703143607'), 
+    0)
+
+WebUI.verifyMatch('Order_Total', 'Order_Total', false)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/a_Proceder al pago'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Mi Carrito  Office Depot Mexico/a_Proceder al pago'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('E2E/Page_Express Checkout/input__streetName'), GlobalVariable.Address_Street_Name)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input__streetNumber'), GlobalVariable.Address_Street_Number)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input__postalcode'), GlobalVariable.Address_PostalCode)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Express Checkout/select_MONTERREY CENTROLA FINCAOtra Colonia'), 
+    0)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/span_Entre que calles se encuentra tu domicilio'), 
+    GlobalVariable.Address_Between_which_streets)
+
+WebUI.setText(findTestObject('Object Repository/E2E/Page_Express Checkout/input_(ej. departamento 3 edificio A, puert_f49e7a'), 
+    GlobalVariable.Address_references_or_directions)
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Express Checkout/input_Verifica tu ubicacin_saveAddressInMyA_91c621'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Express Checkout/button_Continuar con el pago'))
+
+WebUI.click(findTestObject('Object Repository/E2E/Page_Express Checkout/span_Continuar'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Express Checkout/img_Envo a domicilio_lazy'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Express Checkout/div_Caja de Papel Ecolgico Tamao Carta Eart_ee900d'), 
+    0)
+
+WebUI.verifyMatch('Order_Total', 'Order_Total', false)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Express Checkout/span_Entrega estimada el 30042026'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/E2E/Page_Express Checkout/span_Pago en tienda'), 0)
+
+WebUI.closeBrowser()
+
