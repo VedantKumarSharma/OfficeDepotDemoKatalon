@@ -66,3 +66,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Apple i
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
