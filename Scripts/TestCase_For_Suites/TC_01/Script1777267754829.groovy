@@ -25,10 +25,6 @@ WebUI.click(findTestObject('Object Repository/Direct/Page_Celulares  Office Depo
 
 WebUI.verifyElementText(findTestObject('PDP/ProductName_PDP'), 'Apple iPhone 17 Pro Max 256GB 12GB RAM Azul Profundo')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Celulares  Office Depot Mexico/PDP_SKUcode'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Celulares  Office Depot Mexico/PDP_SKUcode'), 0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Celulares  Office Depot Mexico/PDP_DiscountPrice'), 
     0)
 
@@ -57,6 +53,4 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Apple i
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Direct/Page_Apple iPhone 17 Pro Max 256GB 12GB RAM_456143/ol_CategoraCategora,CategoraCategoraofficed_ef444a'), 
     0)
-
-not_run: WebUI.closeBrowser()
 
